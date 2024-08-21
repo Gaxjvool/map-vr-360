@@ -1,5 +1,4 @@
 
-```markdown
 # VR360 Map Viewer
 
 This is a VR360 map viewer built with React, A-Frame, Pannellum, Leaflet, and Next.js. It allows users to view 360-degree images, navigate between scenes using hotspots, and display additional information using hotspots.
