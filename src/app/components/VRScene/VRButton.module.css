@@ -1,0 +1,47 @@
+.vrContainer {
+    font-size: 13px;
+    width: 100%;
+    font-weight: 200;
+    line-height: 16px;
+    position: absolute;
+    right: 20px;
+    bottom: 20px;
+}
+
+.vrButton {
+    background: rgba(0, 0, 0, 0.35) 50% 50% no-repeat url(/assets/icons/vr_icon.svg);
+    background-size: 90% 90%;
+    border: 0;
+    bottom: 0;
+    cursor: pointer;
+    min-width: 58px;
+    min-height: 34px; /* Changed 'min' to 'min-height' */
+    padding-right: 0; /* Changed 'paddingRight' to 'padding-right' */
+    padding-top: 0; /* Changed 'paddingTop' to 'padding-top' */
+    position: absolute;
+    right: 0;
+    transition: background-color 0.05s ease;
+    -webkit-transition: background-color 0.05s ease; /* Changed 'WebkitTransition' to '-webkit-transition' */
+    z-index: 9999; /* Changed 'zIndex' to 'z-index' */
+    border-radius: 8px; /* Changed 'borderRadius' to 'border-radius' */
+    touch-action: manipulation; /* Changed 'touchAction' to 'touch-action' */
+}
+
+.vrButton:hover {
+    background-color: #FFDB4E;
+}
+
+.returnBtnContainer {
+    cursor: pointer;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    background: rgba(0, 0, 0, 0.2);
+    padding: 2px 5px;
+    border-radius: 8px;
+}
+
+.returnBtnText {
+    color: #fff;
+    font-family: sans-serif;
+}

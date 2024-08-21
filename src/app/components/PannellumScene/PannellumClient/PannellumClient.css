@@ -1,0 +1,13 @@
+.guide-audio {
+    position: absolute;
+    top: unset;
+    left: 0;
+    bottom: 0;
+    cursor: pointer;
+}
+
+.volume-control {
+    position: absolute;
+    top: 40px;
+    left: 20px;
+}

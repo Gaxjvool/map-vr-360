@@ -1,0 +1,2550 @@
+[
+    {
+        "place_id": 1,
+        "name": "Bưu Điện Thành Phố Hải Phòng",
+        "mapRedirect": "VM7J%2BHJ Hồng Bàng, Hai Phong, Vietnam",
+        "position": {
+            "latitude": 20.863918157,
+            "longitude": 106.6815903
+        },
+        "popupImgUrl": "/assets/image/buu-dien-hai-phong/00_Thumb.jpg",
+        "audio": "/assets/audio/Bưu điện.mp3",
+        "areas": [
+            {
+                "area_id": "Chinh_dien_fly",
+                "name": "Chính Diện",
+                "url": "/assets/image/buu-dien-hai-phong/chinh_dien.jpg",
+                "url_preview": "/assets/image/buu-dien-hai-phong/previews/chinh_dien.jpg",
+                "hotSpots": [
+                    {
+                        "pitch": -45,
+                        "yaw": 0,
+                        "type": "scene",
+                        "sceneId": "Truoc_cua"
+                    },
+                    {
+                        "pitch": 0,
+                        "yaw": -45,
+                        "type": "scene",
+                        "sceneId": "ben_trai_buu_dien"
+                    },
+                    {
+                        "pitch": 0,
+                        "yaw": 45,
+                        "type": "scene",
+                        "sceneId": "ben_phai_buu_dien"
+                    }
+                ]
+            },
+            {
+                "area_id": "Truoc_cua",
+                "name": "Trước cửa Bưu Điện",
+                "url": "/assets/image/buu-dien-hai-phong/1_Chính diện Bưu điện.jpg",
+                "url_preview": "/assets/image/buu-dien-hai-phong/previews/1_Chính diện Bưu điện.jpg",
+                "hotSpots": [
+                    {
+                        "pitch": -2.1,
+                        "yaw": 180,
+                        "type": "scene",
+                        "sceneId": "hanh_lang"
+                    }
+                ]
+            },
+            {
+                "area_id": "hanh_lang",
+                "name": "Hành Lang Bưu Điện",
+                "url": "/assets/image/buu-dien-hai-phong/1.1_Hành lang bên trong.jpg",
+                "url_preview": "/assets/image/buu-dien-hai-phong/previews/1.1_Hành lang bên trong.jpg",
+                "hotSpots": [
+                    {
+                        "pitch": -20,
+                        "yaw": 0,
+                        "type": "scene",
+                        "sceneId": "Truoc_cua"
+                    },
+                    {
+                        "pitch": -20,
+                        "yaw": 180,
+                        "type": "scene",
+                        "sceneId": "ben_trong"
+                    }
+                ]
+            },
+            {
+                "area_id": "ben_trong",
+                "name": "Bên Trong Bưu Điện",
+                "url": "/assets/image/buu-dien-hai-phong/1.2_Bên trong Bưu điện.jpg",
+                "url_preview": "/assets/image/buu-dien-hai-phong/previews/1.2_Bên trong Bưu điện.jpg",
+                "hotSpots": [
+                    {
+                        "pitch": -15,
+                        "yaw": 0,
+                        "type": "scene",
+                        "sceneId": "hanh_lang"
+                    },
+                    {
+                        "pitch": -8.5,
+                        "yaw": 110,
+                        "type": "scene",
+                        "sceneId": "ben_trong_trai"
+                    },
+                    {
+                        "pitch": 2.2722335447988877,
+                        "yaw": -100.45623462995917,
+                        "type": "scene",
+                        "sceneId": "ben_trong_phai"
+                    }
+                ]
+            },
+            {
+                "area_id": "ben_trong_trai",
+                "name": "Bên Trong Bưu Điện - Bên Trái",
+                "url": "/assets/image/buu-dien-hai-phong/1-3.jpg",
+                "url_preview": "/assets/image/buu-dien-hai-phong/previews/1-3.jpg",
+                "hotSpots": []
+            },
+            {
+                "area_id": "ben_trong_phai",
+                "name": "Bên Trong Bưu Điện - Bên Phải",
+                "url": "/assets/image/buu-dien-hai-phong/1-4.jpg",
+                "url_preview": "/assets/image/buu-dien-hai-phong/previews/1-4.jpg",
+                "hotSpots": []
+            },
+            {
+                "area_id": "ben_trai_buu_dien",
+                "name": "Bên Trái Bưu Điện",
+                "url": "/assets/image/buu-dien-hai-phong/2.jpg",
+                "url_preview": "/assets/image/buu-dien-hai-phong/previews/2.jpg",
+                "hotSpots": [
+                    {
+                        "pitch": -9,
+                        "yaw": 54.53487868104693,
+                        "type": "scene",
+                        "sceneId": "Chinh_dien_fly"
+                    },
+                    {
+                        "pitch": -50,
+                        "yaw": 0,
+                        "type": "scene",
+                        "sceneId": "ben_trai_buu_dien_1"
+                    },
+                    {
+                        "pitch": -50,
+                        "yaw": -11,
+                        "type": "scene",
+                        "sceneId": "ben_trai_buu_dien_2"
+                    },
+                    {
+                        "pitch": -49,
+                        "yaw": -21,
+                        "type": "scene",
+                        "sceneId": "ben_trai_buu_dien_3"
+                    }
+                ]
+            },
+            {
+                "area_id": "ben_trai_buu_dien_1",
+                "name": "Bên Trái Bưu Điện 1",
+                "url": "/assets/image/buu-dien-hai-phong/2-1.jpg",
+                "url_preview": "/assets/image/buu-dien-hai-phong/previews/2-1.jpg",
+                "hotSpots": [
+                    {
+                        "pitch": -6.058459655966786,
+                        "yaw": 93.06695506923927,
+                        "type": "scene",
+                        "sceneId": "ben_trai_buu_dien_2"
+                    }
+                ]
+            },
+            {
+                "area_id": "ben_trai_buu_dien_2",
+                "name": "Bên Trái Bưu Điện 2",
+                "url": "/assets/image/buu-dien-hai-phong/2-2.jpg",
+                "url_preview": "/assets/image/buu-dien-hai-phong/previews/2-2.jpg",
+                "hotSpots": [
+                    {
+                        "pitch": -3.8232524877926726,
+                        "yaw": -89.86306280123914,
+                        "type": "scene",
+                        "sceneId": "ben_trai_buu_dien_1"
+                    },
+                    {
+                        "pitch": -10.059640680926204,
+                        "yaw": 92.64282246767986,
+                        "type": "scene",
+                        "sceneId": "ben_trai_buu_dien_3"
+                    }
+                ]
+            },
+            {
+                "area_id": "ben_trai_buu_dien_3",
+                "name": "Bên Trái Bưu Điện 3",
+                "url": "/assets/image/buu-dien-hai-phong/2-3.jpg",
+                "url_preview": "/assets/image/buu-dien-hai-phong/previews/2-3.jpg",
+                "hotSpots": [
+                    {
+                        "pitch": -8.686149483749745,
+                        "yaw": -89.64133292988156,
+                        "type": "scene",
+                        "sceneId": "ben_trai_buu_dien_2"
+                    }
+                ]
+            },
+            {
+                "area_id": "ben_phai_buu_dien",
+                "name": "Bên Phải Bưu Điện",
+                "url": "/assets/image/buu-dien-hai-phong/3.jpg",
+                "url_preview": "/assets/image/buu-dien-hai-phong/previews/3.jpg",
+                "hotSpots": [
+                    {
+                        "pitch": -22.666657593045393,
+                        "yaw": -50,
+                        "type": "scene",
+                        "sceneId": "Chinh_dien_fly"
+                    },
+                    {
+                        "pitch": -51,
+                        "yaw": -21.056093509533248,
+                        "type": "scene",
+                        "sceneId": "ben_phai_buu_dien_1"
+                    },
+                    {
+                        "pitch": -45,
+                        "yaw": 40.23481030241291,
+                        "type": "scene",
+                        "sceneId": "ben_phai_buu_dien_2"
+                    }
+                ]
+            },
+            {
+                "area_id": "ben_phai_buu_dien_1",
+                "name": "Bên Phải Bưu Điện 1",
+                "url": "/assets/image/buu-dien-hai-phong/3-1.jpg",
+                "url_preview": "/assets/image/buu-dien-hai-phong/previews/3-1.jpg",
+                "hotSpots": []
+            },
+            {
+                "area_id": "ben_phai_buu_dien_2",
+                "name": "Bên Phải Bưu Điện 2 - Cửa vào Đằng Sau",
+                "url": "/assets/image/buu-dien-hai-phong/3-2.jpg",
+                "url_preview": "/assets/image/buu-dien-hai-phong/previews/3-2.jpg",
+                "hotSpots": [
+                    {
+                        "pitch": -3.5,
+                        "yaw": 179.51195830027027,
+                        "type": "scene",
+                        "sceneId": "ben_trong_dang_sau_1"
+                    }
+                ]
+            },
+            {
+                "area_id": "ben_trong_dang_sau_1",
+                "name": "Bên Trong Đằng Sau 1",
+                "url": "/assets/image/buu-dien-hai-phong/3-3.jpg",
+                "url_preview": "/assets/image/buu-dien-hai-phong/previews/3-3.jpg",
+                "hotSpots": [
+                    {
+                        "pitch": -4.51058463698558,
+                        "yaw": -5.017479117786493,
+                        "type": "scene",
+                        "sceneId": "ben_phai_buu_dien_2"
+                    },
+                    {
+                        "pitch": -1.58255402165116,
+                        "yaw": 178.84898445601814,
+                        "type": "scene",
+                        "sceneId": "ben_trong_dang_sau_2"
+                    }
+                ]
+            },
+            {
+                "area_id": "ben_trong_dang_sau_2",
+                "name": "Bên Trong Đằng Sau 2",
+                "url": "/assets/image/buu-dien-hai-phong/3-4.jpg",
+                "url_preview": "/assets/image/buu-dien-hai-phong/previews/3-4.jpg",
+                "hotSpots": [
+                    {
+                        "pitch": -3.555409233706333,
+                        "yaw": -1.206819299093259,
+                        "type": "scene",
+                        "sceneId": "ben_trong_dang_sau_1"
+                    },
+                    {
+                        "pitch": -7.147069251717336,
+                        "yaw": 163.18757581753277,
+                        "type": "scene",
+                        "sceneId": "ben_trong_dang_sau_3"
+                    }
+                ]
+            },
+            {
+                "area_id": "ben_trong_dang_sau_3",
+                "name": "Bên Trong Đằng Sau 3",
+                "url": "/assets/image/buu-dien-hai-phong/3-5.jpg",
+                "url_preview": "/assets/image/buu-dien-hai-phong/previews/3-5.jpg",
+                "hotSpots": [
+                    {
+                        "pitch": -8.607036579688517,
+                        "yaw": 113.0476476901078,
+                        "type": "scene",
+                        "sceneId": "ben_trong_dang_sau_2"
+                    },
+                    {
+                        "pitch": -3.7541677265535274,
+                        "yaw": 178.87404137696188,
+                        "type": "scene",
+                        "sceneId": "phong_phan_loai_1"
+                    }
+                ]
+            },
+            {
+                "area_id": "ben_trong_dang_sau_4",
+                "name": "Bên Trong Đằng Sau 4",
+                "url": "/assets/image/buu-dien-hai-phong/3-8.jpg",
+                "url_preview": "/assets/image/buu-dien-hai-phong/previews/3-8.jpg",
+                "hotSpots": [
+                    {
+                        "pitch": -9.599498255769415,
+                        "yaw": 68.42517232708745,
+                        "type": "scene",
+                        "sceneId": "ben_trong_dang_sau_3"
+                    }
+                ]
+            },
+            {
+                "area_id": "phong_phan_loai_1",
+                "name": "Bên Trong Phòng Phân Loại 1",
+                "url": "/assets/image/buu-dien-hai-phong/3-6.jpg",
+                "url_preview": "/assets/image/buu-dien-hai-phong/previews/3-6.jpg",
+                "hotSpots": [
+                    {
+                        "pitch": -4.871877068588564,
+                        "yaw": -5.09831950898473,
+                        "type": "scene",
+                        "sceneId": "ben_trong_dang_sau_3"
+                    },
+                    {
+                        "pitch": 5.980954197520283,
+                        "yaw": -137.2401979722629,
+                        "type": "scene",
+                        "sceneId": "phong_phan_loai_2"
+                    }
+                ]
+            },
+            {
+                "area_id": "phong_phan_loai_2",
+                "name": "Bên Trong Phòng Phân Loại 2",
+                "url": "/assets/image/buu-dien-hai-phong/3-7.jpg",
+                "url_preview": "/assets/image/buu-dien-hai-phong/previews/3-7.jpg",
+                "hotSpots": [
+                    {
+                        "pitch": 0,
+                        "yaw": 0,
+                        "type": "scene",
+                        "sceneId": "ben_trong_dang_sau_4"
+                    }
+                ]
+            }
+        ],
+        "text_desc": "Di tích lịch sử kháng chiến Bưu điện thành phố Hải Phòng với hơn 100 năm tuổi, không chỉ là một biểu tượng của lòng dũng cảm và tinh thần không khuất phục của người dân Việt Nam trong thời kỳ kháng chiến chống Pháp mà còn là một phần không thể tách rời về lịch sử hào hùng của thành phố cảng sôi động này. \n\nBưu điện Hải Phòng, địa chỉ tại số 5 đường Nguyễn Tri Phương, phường Minh Khai, quận Hồng Bàng, Hải Phòng, được xây dựng xong từ năm 1905, có quy mô lớn của Đông Dương thời thuộc Pháp. Trong các tấm bản đồ xuất bản vào năm 1910 và 1920 tòa nhà này vẫn được ký hiệu và hi chú là Postes et Telephone (Bưu điện và điện thoại).\n\nTrong những năm 1940s, đặc biệt là trong cuộc Tổng khởi nghĩa tháng Tám năm 1945, Bưu điện thành phố đã chứng kiến những sự kiện lịch sử mang tính bước ngoặt. Nó được sử dụng như một cứ điểm quân sự của lực lượng Việt Minh. Từ đây, nhiều hoạt động quan trọng đã được điều phối, góp phần vào thành công của cuộc khởi nghĩa, giải phóng Hải Phòng khỏi ách thống trị của quân Pháp.\n\nNgày 23-8- 1945, sau lễ mít tinh tuyên bố xóa bỏ chính quyền thực dân, thành lập chính quyền cách mạng, Bưu điện Hải Phòng được Chính quyền nhân dân thành phố tiếp quản. Ngay sau đó, hệ thống bưu điện được tổ chức lại, từng bước đưa công tác giao thông liên lạc phục vụ kháng chiến. Bưu điện Hải Phòng đã sử dụng đường điện thoại được quản lý để giữ vững thông tin liên lạc giữa Chiến khu III với Trung ương và Bộ Tổng Tham mưu. Chiều ngày 20-10-1946, Bưu điện Hải Phòng đã hoàn thành xuất sắc nhiệm vụ bảo đảm kỹ thuật cho Đài tiếng nói Việt Nam tường thuật trực tiếp buổi lễ trọng thể đón Bác Hồ tại bến Ngự, khi Bác đi thăm nước Pháp, trở về nước và lưu lại Hải Phòng.\n\nNgày 21- 11- 1946, cùng lúc diễn ra trận chiến đấu quyết tử ở Nhà hát thành phố, tại trụ sở Bưu điện Hải Phòng cũng nổ ra trận chiến đấu không cân sức giữa tiểu đội Vệ quốc đoàn với quân đội Pháp. Trận đánh diễn ra quyết liệt. Ngay từ phút đầu, địch đã dùng lực lượng mạnh với vũ khí hiện đại, hòng áp đảo tiểu đội Vệ quốc đoàn. Với tinh thần Quyết tử cho tổ quốc Quyết sinh, các chiến sĩ Vệ quốc đoàn đã chiến đấu dũng cảm, gan dạ ròng rã suốt một ngày, một đêm.  Sang ngày thứ hai, quân Pháp tăng quân, mở nhiều đợt tấn công dữ dội, cắt đứt đường dây điện thoại. Tiểu đội Vệ quốc đoàn bị bao vây, cô lập, buộc phải rút lên tầng trên cố thủ. Do lực lượng không cân sức nên tiểu đội Vệ quốc đoàn bị tổn thất nhiều, một số chiến sĩ Vệ quốc đoàn đã anh dũng hy sinh. Mặc dù kẻ  địch tìm mọi thủ đoạn chặt đứt các đường dây giao thông - những mạch máu chỉ đạo kháng chiến của ta, song,  những chiến sĩ giao thông  bưu điện  vẫn  vượt mọi hiểm nguy, hoàn thành xuất sắc  nhiệm vụ mở đường, đưa đón cán bộ, mang tài liệu đến với cách mạng. Những năm kháng chiến chống Mỹ, cứu nước, từ trung tâm này, công nhân, viên chức Bưu điện Hải Phòng luôn hoàn thành xuất sắc nhiệm vụ bảo đảm thông tin liên lạc và chỉ huy chiến đấu.\n\nCông trình kiến trúc này mang phong cách châu  u kết hợp với nét trang trí châu Á. Mặt tiền được trang trí ấn tượng bằng hệ mái dốc lợp ngói, hình đồng hồ lớn đơn giản mà không kém phần tinh tế với hai bên là ô cửa sổ cao. Phong cách kiến trúc tân cổ điển đơn giản được sử dụng khai thác đặc điểm của bố cục đối xứng, thể hiện tính bề thế và hoành tráng qua các mặt chính có hình khối kiến trúc vuông vức, tập trung vào việc trang trí qua những đường viền và những mảng tường gạch xen kẽ . Vị trí của tòa nhà cũng là điểm nhấn trong tổng thể không gian quy hoạch. Hai mặt bên của tòa nhà hướng ra hai bên với cửa sổ và cửa đi rộng có đầu cong kết hợp với hệ thống các cột trụ, họa tiết đắp nổi làm tăng thêm sự đồ sộ, trang trọng cho kiến trúc của tòa nhà.\n\nKhông chỉ mang nét đẹp văn hóa kiến trúc đặc sắc, bưu điện Hải phòng còn mang giá trị lịch sử quý báu. Năm 1876, người Pháp mở Bưu cục Hải Phòng và Qui Nhơn, sau khi các cơ sở tương tự đã được mở tại Sài Gòn, Hà Nội. Những con tem đầu tiên ở nước ta được phát hành vào năm 1864, hình vuông có hình chim đại bàng với đủ cỡ, loại. Ngày chuyển thư và đón thư thường được tiến hành khá nghiêm trang. Điện thoại liên tỉnh Hải Phòng - Hà Nội chính thức có từ ngày 19/04/1906. Bưu điện Hải Phòng ra đời sớm đã góp phần đảm bảo thông tin liên lạc thông suốt, nối liền Hải Phòng với các tỉnh thành quan trọng khác trong cả nước.Có thể nói Bưu điện Hải Phòng là một trong bốn bưu cục hiện đại nhất của nước ta lúc bấy giờ.\n\nCùng với Nhà hát thành phố, Quán hoa, Bảo tàng thành phố,... Bưu điện Trung tâm đã làm nên một quần thể di tích đặc biệt, trở thành biểu tượng không thể nào thay thế được trong lòng người Hải Phòng.\n\nGhi nhận những đóng góp đặc biệt quan trọng của Bưu điện Hải Phòng đối với sự nghiệp cách mạng của quân và dân thành phố, ngày 28/01/2005, Ủy ban Nhân dân thành phố Hải Phòng cấp bằng công nhận Bưu điện Hải Phòng là  Di tích lịch sử kháng chiến cấp thành phố (theo Quyết định số 177/QĐ-UBND của UBND thành phố).\n\nNgày nay, Di tích lịch sử kháng chiến Bưu điện thành phố không chỉ là nơi để nhớ về quá khứ mà còn là nguồn cảm hứng cho thế hệ tương lai. Nó là minh chứng cho tinh thần đoàn kết, lòng dũng cảm và sự hy sinh của những người đã chiến đấu và hy sinh vì độc lập tự do của Tổ quốc. Di tích này ngày càng thu hút nhiều du khách trong và ngoài nước đến thăm quan, tìm hiểu và tưởng niệm."
+    },
+    {
+        "place_id": 2,
+        "name": "Trung tâm Chính trị - Hành chính quận Hồng Bàng",
+        "position": {
+            "latitude": 20.864761079946,
+            "longitude": 106.6564409127994
+        },
+        "popupImgUrl": "/assets/image/trung-tam-hanh-chinh/thumb.jpg",
+        "audio": "/assets/audio/TT CTHC.mp3",
+        "areas": [
+            {
+                "area_id": "toan_canh_giua",
+                "name": "Toàn Cảnh - Giữa",
+                "url": "/assets/image/trung-tam-hanh-chinh/0_1.jpg",
+                "url_preview": "/assets/image/trung-tam-hanh-chinh/previews/0_1.jpg",
+                "hotSpots": [
+                    {
+                        "pitch": 0,
+                        "yaw": -45.99770864620209,
+                        "type": "scene",
+                        "sceneId": "toan_canh_trai"
+                    },
+                    {
+                        "pitch": 0,
+                        "yaw": 3,
+                        "type": "scene",
+                        "sceneId": "toan_canh_sau"
+                    },
+                    {
+                        "pitch": 0,
+                        "yaw": 51.60748102595741,
+                        "type": "scene",
+                        "sceneId": "toan_canh_phai"
+                    },
+                    {
+                        "pitch": 0,
+                        "yaw": 80,
+                        "type": "scene",
+                        "sceneId": "toan_canh_tiep_dan"
+                    },
+                    {
+                        "pitch": -38.927729497293576,
+                        "yaw": 0.8105912874431231,
+                        "type": "scene",
+                        "sceneId": "toa_tt_ngoai"
+                    }
+                ]
+            },
+            {
+                "area_id": "toan_canh_trai",
+                "name": "Toàn Cảnh - Trái",
+                "url": "/assets/image/trung-tam-hanh-chinh/0_1_1.jpg",
+                "url_preview": "/assets/image/trung-tam-hanh-chinh/previews/0_1_1.jpg",
+                "hotSpots": [
+                    {
+                        "pitch": 0,
+                        "yaw": 40.37045110909612,
+                        "type": "scene",
+                        "sceneId": "toan_canh_giua"
+                    },
+                    {
+                        "pitch": 0,
+                        "yaw": 0,
+                        "type": "scene",
+                        "sceneId": "toan_canh_phai"
+                    },
+                    {
+                        "pitch": 0,
+                        "yaw": -30.753639623517046,
+                        "type": "scene",
+                        "sceneId": "toan_canh_sau"
+                    }
+                ]
+            },
+            {
+                "area_id": "toan_canh_sau",
+                "name": "Toàn Cảnh - Sau",
+                "url": "/assets/image/trung-tam-hanh-chinh/0_1_2.jpg",
+                "url_preview": "/assets/image/trung-tam-hanh-chinh/previews/0_1_2.jpg",
+                "hotSpots": [
+                    {
+                        "pitch": 0,
+                        "yaw": 55.74217566195659,
+                        "type": "scene",
+                        "sceneId": "toan_canh_trai"
+                    },
+                    {
+                        "pitch": 0,
+                        "yaw": 0,
+                        "type": "scene",
+                        "sceneId": "toan_canh_giua"
+                    },
+                    {
+                        "pitch": 0,
+                        "yaw": -53.161158761170434,
+                        "type": "scene",
+                        "sceneId": "toan_canh_phai"
+                    }
+                ]
+            },
+            {
+                "area_id": "toan_canh_phai",
+                "name": "Toàn Cảnh - Phải",
+                "url": "/assets/image/trung-tam-hanh-chinh/0_1_3.jpg",
+                "url_preview": "/assets/image/trung-tam-hanh-chinh/previews/0_1_3.jpg",
+                "hotSpots": [
+                    {
+                        "pitch": 0.563885937672231,
+                        "yaw": 33.13195440943817,
+                        "type": "scene",
+                        "sceneId": "toan_canh_sau"
+                    },
+                    {
+                        "pitch": 0,
+                        "yaw": 0,
+                        "type": "scene",
+                        "sceneId": "toan_canh_trai"
+                    },
+                    {
+                        "pitch": -2.5640879447946765,
+                        "yaw": -34.91417656491459,
+                        "type": "scene",
+                        "sceneId": "toan_canh_giua"
+                    }
+                ]
+            },
+            {
+                "area_id": "toan_canh_tiep_dan",
+                "name": "Toàn Cảnh - Bộ phận tiếp dân",
+                "url": "/assets/image/trung-tam-hanh-chinh/0_2.jpg",
+                "url_preview": "/assets/image/trung-tam-hanh-chinh/previews/0_2.jpg",
+                "hotSpots": [
+                    {
+                        "pitch": -61.029465416113844,
+                        "yaw": 14.25505622170471,
+                        "type": "scene",
+                        "sceneId": "ngoai_toa_tiep_dan"
+                    },
+                    {
+                        "pitch": 8.277560439087562,
+                        "yaw": -84.97698362115301,
+                        "type": "scene",
+                        "sceneId": "toan_canh_giua"
+                    }
+                ]
+            },
+            {
+                "area_id": "toa_tt_ngoai",
+                "name": "Bên Ngoài - Toà Nhà Trung Tâm",
+                "url": "/assets/image/trung-tam-hanh-chinh/1.jpg",
+                "url_preview": "/assets/image/trung-tam-hanh-chinh/previews/1.jpg",
+                "hotSpots": [
+                    {
+                        "pitch": -7,
+                        "yaw": -3.570047608257547,
+                        "type": "scene",
+                        "sceneId": "sanh_toa_tt"
+                    },
+                    {
+                        "pitch": 2.2196650840134002,
+                        "yaw": -90,
+                        "type": "scene",
+                        "sceneId": "toa_tt_trai"
+                    },
+                    {
+                        "pitch": 2.714927151614142,
+                        "yaw": 90.68047018736354,
+                        "type": "scene",
+                        "sceneId": "toa_tt_phai"
+                    }
+                ]
+            },
+            {
+                "area_id": "sanh_toa_tt",
+                "name": "Sảnh - Toà Nhà Trung Tâm",
+                "url": "/assets/image/trung-tam-hanh-chinh/1_0.jpg",
+                "url_preview": "/assets/image/trung-tam-hanh-chinh/previews/1_0.jpg",
+                "hotSpots": [
+                    {
+                        "pitch": -2.170666050043712,
+                        "yaw": 0,
+                        "type": "scene",
+                        "sceneId": "toa_tt_ngoai"
+                    },
+                    {
+                        "pitch": -1,
+                        "yaw": 180,
+                        "type": "scene",
+                        "sceneId": "trong_toa_tt"
+                    }
+                ]
+            },
+            {
+                "area_id": "trong_toa_tt",
+                "name": "Bên Trong - Toà Nhà Trung Tâm",
+                "url": "/assets/image/trung-tam-hanh-chinh/1_0_1.jpg",
+                "url_preview": "/assets/image/trung-tam-hanh-chinh/previews/1_0_1.jpg",
+                "hotSpots": [
+                    {
+                        "pitch": 0,
+                        "yaw": 0,
+                        "type": "scene",
+                        "sceneId": "sanh_toa_tt"
+                    }
+                ]
+            },
+            {
+                "area_id": "toa_tt_trai",
+                "name": "Bên Ngoài - Toà Nhà Trung Tâm - Trái",
+                "url": "/assets/image/trung-tam-hanh-chinh/1_1.jpg",
+                "url_preview": "/assets/image/trung-tam-hanh-chinh/previews/1_1.jpg",
+                "hotSpots": [
+                    {
+                        "pitch": 1.8454895147261072,
+                        "yaw": -130.7469465405188,
+                        "type": "scene",
+                        "sceneId": "toa_tt_ngoai"
+                    }
+                ]
+            },
+            {
+                "area_id": "toa_tt_phai",
+                "name": "Bên Ngoài - Toà Nhà Trung Tâm - Phải",
+                "url": "/assets/image/trung-tam-hanh-chinh/1_2.jpg",
+                "url_preview": "/assets/image/trung-tam-hanh-chinh/previews/1_2.jpg",
+                "hotSpots": [
+                    {
+                        "pitch": 3.4194680210011383,
+                        "yaw": -32.961195568787055,
+                        "type": "scene",
+                        "sceneId": "ngoai_toa_tiep_dan"
+                    },
+                    {
+                        "pitch": 1.649366202092801,
+                        "yaw": 139.31585573564018,
+                        "type": "scene",
+                        "sceneId": "toa_tt_ngoai"
+                    }
+                ]
+            },
+            {
+                "area_id": "ngoai_toa_tiep_dan",
+                "name": "Bên Ngoài - Toà Nhà Tiếp Dân",
+                "url": "/assets/image/trung-tam-hanh-chinh/2.jpg",
+                "url_preview": "/assets/image/trung-tam-hanh-chinh/previews/2.jpg",
+                "hotSpots": [
+                    {
+                        "pitch": 1.9291713285233265,
+                        "yaw": 179.51557696113446,
+                        "type": "scene",
+                        "sceneId": "trong_toa_tiep_dan"
+                    },
+                    {
+                        "pitch": -1.5484618621201407,
+                        "yaw": -93.84918634490573,
+                        "type": "scene",
+                        "sceneId": "phai_toa_tiep_dan"
+                    }
+                ]
+            },
+            {
+                "area_id": "phai_toa_tiep_dan",
+                "name": "Bên Phải - Toà Nhà Tiếp Dân",
+                "url": "/assets/image/trung-tam-hanh-chinh/2_1.jpg",
+                "url_preview": "/assets/image/trung-tam-hanh-chinh/previews/2_1.jpg",
+                "hotSpots": [
+                    {
+                        "pitch": 0.6890937691712464,
+                        "yaw": 84.54923114745615,
+                        "type": "scene",
+                        "sceneId": "ngoai_toa_tiep_dan"
+                    }
+                ]
+            },
+            {
+                "area_id": "trong_toa_tiep_dan",
+                "name": "Bên Trong - Toà Nhà Tiếp Dân",
+                "url": "/assets/image/trung-tam-hanh-chinh/2_2.jpg",
+                "url_preview": "/assets/image/trung-tam-hanh-chinh/previews/2_2.jpg",
+                "hotSpots": [
+                    {
+                        "pitch": -2,
+                        "yaw": 2,
+                        "type": "scene",
+                        "sceneId": "ngoai_toa_tiep_dan"
+                    }
+                ]
+            }
+        ],
+        "text_desc": "Trung tâm chính trị – hành chính quận Hồng Bàng, tọa lạc tại trái tim của thành phố Hải Phòng, là điểm nút then chốt trong việc điều hành và phát triển kinh tế - xã hội của quận. Là trung tâm điều phối các hoạt động chính trị, hành chính, và dịch vụ công, trung tâm này không chỉ là biểu tượng của quyền lực và trách nhiệm mà còn là biểu tượng của sự tiến bộ và hiện đại.\n\nQuận Hồng Bàng có vị thế và vai trò quan trọng trong phát triển kinh tế-xã hội và đô thị Hải Phòng, nơi tập trung các cơ quan đầu não của thành phố như trụ sở Thành uỷ, HĐND-UBND thành phố. Song trụ sở, nhà làm việc của Quận ủy, HĐND và UBND quận xuống cấp, không đáp ứng yêu cầu làm việc, phục vụ nhân dân. \n\nTrước yêu cầu xây dựng nền hành chính hiện đại, chính quyền kiến tạo, phục vụ nhân dân, việc xây dựng Trung tâm chính trị – hành chính mới bảo đảm các tiêu chuẩn, đáp ứng đầy đủ điều kiện thực thi nhiệm vụ của cấp ủy Đảng, chính quyền và phục vụ nhân dân trong quận là rất cần thiết. Đây là mong muốn của nhiều thế hệ lãnh đạo và nhân dân quận. Từ thực tế này, năm 2010, UBND thành phố có quyết định giao UBND quận Hồng Bàng giao làm chủ đầu tư thực hiện dự án xây dựng trung tâm chính trị-hành chính mới của quận tại Khu đô thị mới Sở Dầu.\n\nTrong 3 năm 2015-2017, quận Hồng Bàng tập trung chỉ đạo công tác đấu giá quyền sử dụng đất tạo nguồn vốn đáp ứng yêu cầu thực hiện dự án. Bên cạnh đó, UBND quận cân đối nguồn ngân sách của địa phương được bố trí hằng năm dành cho đầu tư xây dựng cơ bản để thực hiện dự án.\n\nVề thiết kế, UBND quận thành lập Hội đồng thi tuyển thiết kế kiến trúc công trình, có sự tham gia của Hội đồng kiến trúc quy hoạch thành phố. Sau 3 vòng thi tuyển, với sự tham gia 14 đơn vị trên toàn quốc, hội đồng lựa chọn phương án kiến trúc của kiến trúc sư Hoàng Thúc Hào, Chủ tịch HĐQT Công ty CP kiến trúc Quốc tế. \n\nDự án nhận được sự chấp thuận của Thành ủy – HĐND – UBND thành phố. Tổng công ty xây dựng Bạch Đằng được chọn là nhà thầu thi công dự án. Sau 18 tháng xây dựng, dự án hoàn thành. Công trình có quy mô lớn, hiện đại, khẳng định vị trí quận trung tâm của thành phố.\n\nCông trình gồm toà nhà 7 tầng và 1 tầng hầm để xe, cùng hạ tầng sân vườn đồng bộ với tổng diện tích sàn hơn hơn 11.700 m2. Công trình gồm 4 khối nhà và 1 cụm hội trường kết nối nhau bằng sảnh thông tầng hình tròn ở giữa; xen giữa các khối nhà là không gian mở, giếng trời có cây xanh kết hợp với hồ nước lớn. Điểm nhấn tòa nhà là khối sảnh được tạo thành từ những lá vách xếp xoay tròn, cách điệu từ hoa phượng- biểu tượng của thành phố Hải Phòng và hình ảnh mũ chim hạc cách điệu thời Hùng Vương. Vóc dáng công trình thể hiện khát vọng vươn tới tầm cao mới của nhân dân quận Hồng Bàng trong sự nghiệp công nghiệp hóa, hiện đại hóa và xây dựng quê hương ngày giàu đẹp – văn minh – hiện đại.\n\nKhông chỉ tạo dấu ấn kiến trúc, công trình đánh dấu bước phát triển mới trong tiến trình hiện đại hoá nền hành chính công. \n\nThiết kế công trình thể hiện rõ đó là ý tưởng \"tập trung, trung tâm, trật tự và tổ chức\". Tòa nhà được chia làm 2 khu, khu làm việc chính được bố trí phía Tây khu đất, nằm sát đường giao thông. Khu phía Đông dành cho các công trình phụ trợ. Toàn bộ công trình có nhiều lối dẫn vào tòa nhà, gồm lối vào chính, ở hướng Nam, từ đường trục Hồng Bàng hướng vào sảnh trung tâm. Đây là lối đi dành cho các cơ quan hành chính trong quận và khách đến làm việc. Phía Tây là lối đi dành cho người dân vào thẳng khu vực hành chính bộ phận \"một cửa hiện đại\". Lối phục vụ vào từ góc Đông Nam gắn với các công trình phụ trợ. Tại mỗi lối tiếp cận công trình đều có bãi để xe riêng nhằm tránh chồng chéo, ùn tắc giao thông. Để tạo sự kết nối giữa trung tâm hành chính và không gian chung của công trình liền kề, hàng rào phía Nam được thiết kế ngăn cách mềm. Khi tổ chức các sự kiện chính trị, văn hóa, xã hội lớn, hàng rào được thu lại và sân trung tâm hành chính cùng đoạn đường phía trước tạo thành quảng trường lớn.\n\nTrung tâm chính trị -mhành chính mới không chỉ là nơi làm việc của lãnh đạo Quận ủy, HĐND, UBND quận, Ủy ban MTTQ quận, các phòng, ban, ngành, đoàn thể, mà còn nơi đón tiếp phục vụ nhân dân đến giao dịch công việc, tổ chức các sự kiện. \n\nKhông chỉ đóng góp vào sự phát triển kinh tế mà còn là nơi nuôi dưỡng, phát huy các giá trị văn hóa truyền thống của quận và thành phố. Qua các hoạt động cộng đồng, trung tâm này đã trở thành biểu tượng của sự đoàn kết, là cầu nối liên kết mạnh mẽ giữa quá khứ và tương lai, giữa truyền thống và hiện đại.\n\nTrung tâm chính trị - hành chính quận Hồng Bàng với vai trò và ý nghĩa to lớn của mình, đã và đang là điểm tựa vững chắc cho sự phát triển của quận Hồng Bàng, góp phần quan trọng vào sự nghiệp chung của thành phố Hải Phòng trên hành trình hội nhập và phát triển."
+    },
+    {
+        "place_id": 3,
+        "name": "Đền Liệt Sỹ Quận Hồng Bàng",
+        "position": {
+            "latitude": 20.865342792989598,
+            "longitude": 106.65129317536058
+        },
+        "popupImgUrl": "/assets/image/den-liet-sy/thumb.jpg",
+        "audio": "/assets/audio/Đền liệt sĩ.mp3",
+        "areas": [
+            {
+                "area_id": "toan_canh_1",
+                "name": "Toàn Cảnh 1",
+                "url": "/assets/image/den-liet-sy/1_1.jpg",
+                "url_preview": "/assets/image/den-liet-sy/previews/1_1.jpg",
+                "hotSpots": [
+                    {
+                        "pitch": -56.077062053383656,
+                        "yaw": -2.0713704732776144,
+                        "type": "scene",
+                        "sceneId": "toan_canh_2"
+                    }
+                ]
+            },
+            {
+                "area_id": "toan_canh_2",
+                "name": "Toàn Cảnh 2",
+                "url": "/assets/image/den-liet-sy/1_2.jpg",
+                "url_preview": "/assets/image/den-liet-sy/previews/1_2.jpg",
+                "hotSpots": [
+                    {
+                        "pitch": -14.09632723708187,
+                        "yaw": -1.3303620342738145,
+                        "type": "scene",
+                        "sceneId": "san_giua_1"
+                    }
+                ]
+            },
+            {
+                "area_id": "san_giua_1",
+                "name": "Bên Ngoài - Sân - Giữa 1",
+                "url": "/assets/image/den-liet-sy/2.jpg",
+                "url_preview": "/assets/image/den-liet-sy/previews/2.jpg",
+                "hotSpots": [
+                    {
+                        "pitch": -1.7674462958693424,
+                        "yaw": 0.41125916747200786,
+                        "type": "scene",
+                        "sceneId": "san_giua_2"
+                    },
+                    {
+                        "pitch": 1.113585180766472,
+                        "yaw": 98.73479379027671,
+                        "type": "scene",
+                        "sceneId": "san_phai"
+                    },
+                    {
+                        "pitch": -0.09519015375930955,
+                        "yaw": -99.14518083270886,
+                        "type": "scene",
+                        "sceneId": "san_trai_1"
+                    }
+                ]
+            },
+            {
+                "area_id": "san_giua_2",
+                "name": "Bên Ngoài - Sân - Giữa 2",
+                "url": "/assets/image/den-liet-sy/2_0.jpg",
+                "url_preview": "/assets/image/den-liet-sy/previews/2_0.jpg",
+                "hotSpots": [
+                    {
+                        "pitch": -4.946883568720697,
+                        "yaw": 0.5749908109228825,
+                        "type": "scene",
+                        "sceneId": "san_giua_3"
+                    }
+                ]
+            },
+            {
+                "area_id": "san_giua_3",
+                "name": "Bên Ngoài - Sân - Giữa 3",
+                "url": "/assets/image/den-liet-sy/2_0_1.jpg",
+                "url_preview": "/assets/image/den-liet-sy/previews/2_0_1.jpg",
+                "hotSpots": [
+                    {
+                        "pitch": 0.8314510095439579,
+                        "yaw": 0.8625401733281718,
+                        "type": "scene",
+                        "sceneId": "san_giua_4"
+                    }
+                ]
+            },
+            {
+                "area_id": "san_giua_4",
+                "name": "Bên Ngoài - Sân - Giữa 4",
+                "url": "/assets/image/den-liet-sy/2_0_2.jpg",
+                "url_preview": "/assets/image/den-liet-sy/previews/2_0_2.jpg",
+                "hotSpots": [
+                    {
+                        "pitch": -1.5090335272313808,
+                        "yaw": -0.2875026441250587,
+                        "type": "scene",
+                        "sceneId": "hien_giua_1"
+                    },
+                    {
+                        "pitch": -0.4754431143755716,
+                        "yaw": 91.2177795408467,
+                        "type": "scene",
+                        "sceneId": "san_vuon_phai_3"
+                    },
+                    {
+                        "pitch": 0.22564227817953966,
+                        "yaw": -88.1000075196265,
+                        "type": "scene",
+                        "sceneId": "san_mai_trai_2"
+                    }
+                ]
+            },
+            {
+                "area_id": "hien_giua_1",
+                "name": "Bên Ngoài - Hiên - Giữa 1",
+                "url": "/assets/image/den-liet-sy/2_0_3.jpg",
+                "url_preview": "/assets/image/den-liet-sy/previews/2_0_3.jpg",
+                "hotSpots": [
+                    {
+                        "pitch": 3.087531658067582,
+                        "yaw": 0.5749908109228825,
+                        "type": "scene",
+                        "sceneId": "hien_giua_2"
+                    }
+                ]
+            },
+            {
+                "area_id": "hien_giua_2",
+                "name": "Bên Ngoài - Hiên - Giữa 2",
+                "url": "/assets/image/den-liet-sy/2_0_4.jpg",
+                "url_preview": "/assets/image/den-liet-sy/previews/2_0_4.jpg",
+                "hotSpots": [
+                    {
+                        "pitch": -6.6543894605863345,
+                        "yaw": 0.14375222694675027,
+                        "type": "scene",
+                        "sceneId": "dien_chinh_giua_1"
+                    }
+                ]
+            },
+            {
+                "area_id": "dien_chinh_giua_1",
+                "name": "Điện Chính - Giữa 1",
+                "url": "/assets/image/den-liet-sy/2_0_5.jpg",
+                "url_preview": "/assets/image/den-liet-sy/previews/2_0_5.jpg",
+                "hotSpots": [
+                    {
+                        "pitch": -18.763800337722444,
+                        "yaw": -2.1552707789657015,
+                        "type": "scene",
+                        "sceneId": "dien_chinh_giua_2"
+                    },
+                    {
+                        "pitch": 2.050979638093502,
+                        "yaw": 90.18094709369507,
+                        "type": "info",
+                        "sceneId": "/assets/image/den-liet-sy/2_0_5_1_info.jpg"
+                    },
+                    {
+                        "pitch": 1.5901308654275295,
+                        "yaw": -91.42806765665756,
+                        "type": "info",
+                        "sceneId": "/assets/image/den-liet-sy/2_0_5_2_info.jpg"
+                    }
+                ]
+            },
+            {
+                "area_id": "dien_chinh_giua_2",
+                "name": "Điện Chính - Giữa 2",
+                "url": "/assets/image/den-liet-sy/2_0_6.jpg",
+                "url_preview": "/assets/image/den-liet-sy/previews/2_0_6.jpg",
+                "hotSpots": [
+                    {
+                        "pitch": -1.3441829857435548,
+                        "yaw": -89.01492083782254,
+                        "type": "scene",
+                        "sceneId": "dien_chinh_trai"
+                    },
+                    {
+                        "pitch": -1.0498312618920587,
+                        "yaw": 90.02668948198185,
+                        "type": "scene",
+                        "sceneId": "dien_chinh_phai"
+                    },
+                    {
+                        "pitch": -17.719080161419743,
+                        "yaw": -178.82977207599134,
+                        "type": "scene",
+                        "sceneId": "dien_chinh_giua_1"
+                    }
+                ]
+            },
+            {
+                "area_id": "dien_chinh_trai",
+                "name": "Điện Chính - Trái",
+                "url": "/assets/image/den-liet-sy/2_0_7.jpg",
+                "url_preview": "/assets/image/den-liet-sy/previews/2_0_7.jpg",
+                "hotSpots": [
+                    {
+                        "pitch": -3.3306401004897306,
+                        "yaw": -91.59339808085922,
+                        "type": "scene",
+                        "sceneId": "dien_chinh_giua_2"
+                    }
+                ]
+            },
+            {
+                "area_id": "dien_chinh_phai",
+                "name": "Điện Chính - Phải",
+                "url": "/assets/image/den-liet-sy/2_0_8.jpg",
+                "url_preview": "/assets/image/den-liet-sy/previews/2_0_8.jpg",
+                "hotSpots": [
+                    {
+                        "pitch": -1.878452916651555,
+                        "yaw": 92.11814897503905,
+                        "type": "scene",
+                        "sceneId": "dien_chinh_giua_2"
+                    }
+                ]
+            },
+            {
+                "area_id": "san_phai",
+                "name": "Bên Ngoài - Sân - Phải",
+                "url": "/assets/image/den-liet-sy/2_1.jpg",
+                "url_preview": "/assets/image/den-liet-sy/previews/2_1.jpg",
+                "hotSpots": [
+                    {
+                        "pitch": 4.380951504048899,
+                        "yaw": 179.80770819943027,
+                        "type": "info",
+                        "sceneId": "/assets/image/den-liet-sy/2_1_0_info.jpg"
+                    },
+                    {
+                        "pitch": -5.334906123176792,
+                        "yaw": -171.81627646609024,
+                        "type": "scene",
+                        "sceneId": "san_vuon_phai_1"
+                    },
+                    {
+                        "pitch": 0.2655437750869375,
+                        "yaw": -9.109158950943254,
+                        "type": "scene",
+                        "sceneId": "san_giua_1"
+                    }
+                ]
+            },
+            {
+                "area_id": "san_vuon_phai_1",
+                "name": "Bên Ngoài - Sân - Vườn - Phải 1",
+                "url": "/assets/image/den-liet-sy/2_1_2.jpg",
+                "url_preview": "/assets/image/den-liet-sy/previews/2_1_2.jpg",
+                "hotSpots": [
+                    {
+                        "pitch": 0.9278914031071925,
+                        "yaw": 179.71763071971267,
+                        "type": "scene",
+                        "sceneId": "san_vuon_phai_2"
+                    },
+                    {
+                        "pitch": -1.2720773360064102,
+                        "yaw": 104.0329041515844,
+                        "type": "scene",
+                        "sceneId": "san_phai"
+                    }
+                ]
+            },
+            {
+                "area_id": "san_vuon_phai_2",
+                "name": "Bên Ngoài - Sân - Vườn - Phải 2",
+                "url": "/assets/image/den-liet-sy/2_1_2_1.jpg",
+                "url_preview": "/assets/image/den-liet-sy/previews/2_1_2_1.jpg",
+                "hotSpots": [
+                    {
+                        "pitch": 1.3804160357872919,
+                        "yaw": -108.4406608452878,
+                        "type": "scene",
+                        "sceneId": "san_vuon_phai_3_1"
+                    },
+                    {
+                        "pitch": 0.44861484351293957,
+                        "yaw": -176.86829585099562,
+                        "type": "scene",
+                        "sceneId": "san_mai_phai"
+                    }
+                ]
+            },
+            {
+                "area_id": "san_mai_phai",
+                "name": "Bên Ngoài - Sân - Mái - Phải",
+                "url": "/assets/image/den-liet-sy/2_1_1.jpg",
+                "url_preview": "/assets/image/den-liet-sy/previews/2_1_1.jpg",
+                "hotSpots": [
+                    {
+                        "pitch": 2.3555009179826865,
+                        "yaw": -0.8681676086826693,
+                        "type": "scene",
+                        "sceneId": "san_giua_4"
+                    },
+                    {
+                        "pitch": 2.216534837976847,
+                        "yaw": 90.8753524985522,
+                        "type": "scene",
+                        "sceneId": "san_vuon_phai_3"
+                    }
+                ]
+            },
+            {
+                "area_id": "san_vuon_phai_3",
+                "name": "Bên Ngoài - Sân - Vườn - Phải 3",
+                "url": "/assets/image/den-liet-sy/2_1_2_2.jpg",
+                "url_preview": "/assets/image/den-liet-sy/previews/2_1_2_2.jpg",
+                "hotSpots": [
+                    {
+                        "pitch": 1.880201873586196,
+                        "yaw": -179.60188658925614,
+                        "type": "scene",
+                        "sceneId": "san_vuon_phai_4"
+                    },
+                    {
+                        "pitch": 1.258749058108408,
+                        "yaw": 48.61833405931716,
+                        "type": "scene",
+                        "sceneId": "san_vuon_phai_3_1"
+                    },
+                    {
+                        "pitch": 0.35855950875442205,
+                        "yaw": 0.5881307043795789,
+                        "type": "scene",
+                        "sceneId": "san_mai_phai"
+                    }
+                ]
+            },
+            {
+                "area_id": "san_vuon_phai_3_1",
+                "name": "Bên Ngoài - Sân - Vườn - Phải 3.1",
+                "url": "/assets/image/den-liet-sy/2_1_2_2_1.jpg",
+                "url_preview": "/assets/image/den-liet-sy/previews/2_1_2_2_1.jpg",
+                "hotSpots": [
+                    {
+                        "pitch": -10.241267175861696,
+                        "yaw": 118.5654981582312,
+                        "type": "scene",
+                        "sceneId": "san_vuon_phai_3"
+                    },
+                    {
+                        "pitch": -5.099796064763013,
+                        "yaw": -1.1316562731934017,
+                        "type": "scene",
+                        "sceneId": "san_giua_2_rua"
+                    }
+                ]
+            },
+            {
+                "area_id": "san_vuon_phai_4",
+                "name": "Bên Ngoài - Sân - Vườn - Phải 4",
+                "url": "/assets/image/den-liet-sy/2_1_2_3.jpg",
+                "url_preview": "/assets/image/den-liet-sy/previews/2_1_2_3.jpg",
+                "hotSpots": [
+                    {
+                        "pitch": 1.8312497063303244,
+                        "yaw": -2.055861072799699,
+                        "type": "scene",
+                        "sceneId": "san_vuon_phai_3"
+                    },
+                    {
+                        "pitch": 2.756410245914119,
+                        "yaw": 82.94756406646913,
+                        "type": "scene",
+                        "sceneId": "san_vuon_sau_giua"
+                    }
+                ]
+            },
+            {
+                "area_id": "san_trai_1",
+                "name": "Bên Ngoài - Sân - Trái",
+                "url": "/assets/image/den-liet-sy/2_2.jpg",
+                "url_preview": "/assets/image/den-liet-sy/previews/2_2.jpg",
+                "hotSpots": [
+                    {
+                        "pitch": 1.6208201895492074,
+                        "yaw": 8.195585127478088,
+                        "type": "scene",
+                        "sceneId": "san_giua_1"
+                    },
+                    {
+                        "pitch": -4.384271770498813,
+                        "yaw": -150.07667604698875,
+                        "type": "scene",
+                        "sceneId": "san_mai_trai_1"
+                    },
+                    {
+                        "pitch": 3.6526219118050562,
+                        "yaw": 179.23487837418918,
+                        "type": "info",
+                        "sceneId": "/assets/image/den-liet-sy/2_2_0_info.jpg"
+                    }
+                ]
+            },
+            {
+                "area_id": "san_mai_trai_1",
+                "name": "Bên Ngoài - Sân - Mái - Trái 1",
+                "url": "/assets/image/den-liet-sy/2_2_1.jpg",
+                "url_preview": "/assets/image/den-liet-sy/previews/2_2_1.jpg",
+                "hotSpots": [
+                    {
+                        "pitch": -2.6039245693978588,
+                        "yaw": 176.4857245889055,
+                        "type": "scene",
+                        "sceneId": "san_mai_trai_2"
+                    },
+                    {
+                        "pitch": -11.74946452970119,
+                        "yaw": -42.033127531832804,
+                        "type": "scene",
+                        "sceneId": "san_trai_1"
+                    }
+                ]
+            },
+            {
+                "area_id": "san_mai_trai_2",
+                "name": "Bên Ngoài - Sân - Mái - Trái 2",
+                "url": "/assets/image/den-liet-sy/2_2_2.jpg",
+                "url_preview": "/assets/image/den-liet-sy/previews/2_2_2.jpg",
+                "hotSpots": [
+                    {
+                        "pitch": 1.463577086372467,
+                        "yaw": 90.76482467084348,
+                        "type": "scene",
+                        "sceneId": "san_mai_trai_3"
+                    },
+                    {
+                        "pitch": 0.16448128353988337,
+                        "yaw": -89.38749284774912,
+                        "type": "scene",
+                        "sceneId": "san_mai_trai_1"
+                    },
+                    {
+                        "pitch": -0.4347110845790836,
+                        "yaw": -178.5942291198175,
+                        "type": "scene",
+                        "sceneId": "san_giua_4"
+                    }
+                ]
+            },
+            {
+                "area_id": "san_mai_trai_3",
+                "name": "Bên Ngoài - Sân - Mái - Trái 3",
+                "url": "/assets/image/den-liet-sy/2_2_3.jpg",
+                "url_preview": "/assets/image/den-liet-sy/previews/2_2_3.jpg",
+                "hotSpots": [
+                    {
+                        "pitch": -3.264210208648416,
+                        "yaw": 1.2737297869026514,
+                        "type": "scene",
+                        "sceneId": "san_giua_2_rua"
+                    },
+                    {
+                        "pitch": -10.300973881426597,
+                        "yaw": -117.56257409181386,
+                        "type": "scene",
+                        "sceneId": "san_trai_2"
+                    },
+                    {
+                        "pitch": 4.202225199755452,
+                        "yaw": 179.78537148529503,
+                        "type": "info",
+                        "sceneId": "/assets/image/den-liet-sy/2_2_3_0_info.jpg"
+                    }
+                ]
+            },
+            {
+                "area_id": "san_giua_2_rua",
+                "name": "Bên Ngoài - Sân - Giữa 2 Rùa",
+                "url": "/assets/image/den-liet-sy/2_2_3_1.jpg",
+                "url_preview": "/assets/image/den-liet-sy/previews/2_2_3_1.jpg",
+                "hotSpots": [
+                    {
+                        "pitch": 0,
+                        "yaw": -0.8501742887097201,
+                        "type": "scene",
+                        "sceneId": "san_mai_trai_3"
+                    },
+                    {
+                        "pitch": -2,
+                        "yaw": 179.11740329138573,
+                        "type": "scene",
+                        "sceneId": "san_vuon_phai_3_1"
+                    }
+                ]
+            },
+            {
+                "area_id": "san_trai_2",
+                "name": "Bên Ngoài - Sân - Trái 2",
+                "url": "/assets/image/den-liet-sy/2_2_4.jpg",
+                "url_preview": "/assets/image/den-liet-sy/previews/2_2_4.jpg",
+                "hotSpots": [
+                    {
+                        "pitch": -0.5006850031543666,
+                        "yaw": 179.02897185006924,
+                        "type": "scene",
+                        "sceneId": "san_trai_3"
+                    },
+                    {
+                        "pitch": 0.9622921919772619,
+                        "yaw": -5.631593470497251,
+                        "type": "scene",
+                        "sceneId": "san_mai_trai_3"
+                    }
+                ]
+            },
+            {
+                "area_id": "san_trai_3",
+                "name": "Bên Ngoài - Sân - Trái 3",
+                "url": "/assets/image/den-liet-sy/2_2_5.jpg",
+                "url_preview": "/assets/image/den-liet-sy/previews/2_2_5.jpg",
+                "hotSpots": [
+                    {
+                        "pitch": 0,
+                        "yaw": -111.89093195531855,
+                        "type": "scene",
+                        "sceneId": "san_vuon_sau_giua"
+                    },
+                    {
+                        "pitch": 2.1536550064311677,
+                        "yaw": 0.9691077190146551,
+                        "type": "scene",
+                        "sceneId": "san_trai_2"
+                    }
+                ]
+            },
+            {
+                "area_id": "san_vuon_sau_giua",
+                "name": "Bên Ngoài - Sân - Vườn Sau - Giữa",
+                "url": "/assets/image/den-liet-sy/2_3.jpg",
+                "url_preview": "/assets/image/den-liet-sy/previews/2_3.jpg",
+                "hotSpots": [
+                    {
+                        "pitch": 1.9372353262829363,
+                        "yaw": 90.53885700134896,
+                        "type": "scene",
+                        "sceneId": "san_vuon_phai_3"
+                    },
+                    {
+                        "pitch": -1.4501181436201327,
+                        "yaw": -92.94277927327477,
+                        "type": "scene",
+                        "sceneId": "san_trai_3"
+                    }
+                ]
+            }
+        ],
+        "text_desc": "Đền liệt sĩ quận Hồng Bàng, thành phố Hải Phòng, là một trong những địa điểm tưởng niệm mang ý nghĩa sâu sắc, được xây dựng nhằm tôn vinh những anh hùng đã hy sinh vì nền độc lập và tự do của dân tộc. Nằm tại số 1 đường Lê Lợi, phường Hùng Vương, quận Hồng Bàng, thành phố Hải Phòng, đền không chỉ là nơi giáo dục truyền thống yêu nước mà còn là điểm đến tâm linh quan trọng cho người dân địa phương và du khách thập phương.\n\nVới đạo lý: Uống nước nhớ nguồn, để ghi nhớ công ơn của các Bà mẹ Việt Nam anh hùng, các liệt sỹ đã hy sinh, nhân dịp kỷ niệm 50 năm ngày thương binh liệt sỹ 27/7/1947, thể theo nguyện vọng của cán bộ, nhân dân trong quận, ngày 18/7/1997, Ban thường vụ Quận uỷ Hồng Bàng có thông báo số 51 về việc xây dựng nhà bia ghi tên các liệt sĩ (nay là Đền Liệt sỹ). \n\nNgày 19/7/1997, Uỷ ban nhân dân thành phố có quyết định giao Đất, duyệt phương án đền bù, thu hồi Đất, xây dựng Đền. Ngày 12/8/1997, ký hợp đồng thiết kế công trình với công ty tư vấn thiết kế kiến trúc Hà Nội, do Kiến trúc sư Đặng Thái Hoàng (Trưởng khoa Kiến trúc Trường Đại học Xây dựng Hà Nội) làm chủ biên phần kiến trúc. Để công trình thiết kế đạt yêu cầu tâm linh truyền thống dân tộc Á Đông, trang nghiêm, hiện đại, quận đã cử một số đoàn công tác đi nghiên cứu, tham khảo nhiều công trình văn hoá như: Nhà bia tưởng niệm của Bộ Tư lệnh phòng không không quân, Đền Liệt sĩ Bến Dược, Đền Liệt sỹ huyện Hải Hậu và tổ chức trưng cầu ý kiến của các vị lão thành cách mạng, cán bộ chủ chốt của thành phố và quận đã nghỉ hưu. Sau khi các phương án đã được chọn và Uỷ ban nhân dân thành phố duyệt, Công ty 3/2 Hồng Bàng là đơn vị thi công. \n\nMùa xuân năm Canh Thìn 2000 các hạng mục công trình đã hoàn thành, tổng thể khu tưởng niệm mang đậm phong cách kiến trúc Việt Nam với hệ thống mái ngói đỏ nghiêng vút, trụ cột vững chãi và các hoa văn, đường nét chạm khắc tinh xảo. Mỗi chi tiết kiến trúc đều mang ý nghĩa biểu tượng, thể hiện sự tôn kính và lòng biết ơn sâu sắc đối với các anh hùng liệt sĩ.\n\nCác công trình hoàn thiện bao gồm toà nhà chính 2 tầng, cổng tam quan, ao Cảnh, vườn hoa, cây Cảnh, thảm thảo mộc và toàn bộ hạ tầng cơ sở đã hoàn thành, phần kết cấu công trình gồm nhiều loại cọc bê tông, khung sàn bê tông cốt thép, ngói mũi hài, vảy cá Giếng Đáy, cửa gỗ lim trạm trổ Tùng Cúc Trúc Mai.\n\nNgoại thất đền bao gồm 2 thềm cửu bậc, tiền sảnh, rồng đá, nhiều cây Cảnh quý, hiếm như: kim giao Cát Bà, cau Nha Trang, đa đỏ Ấn Độ và một số cây Cảnh khác do các cơ quan, đoàn thể cúng tiến.\n\nNội thất Đền nổi bật với điện thờ đặt ở gian giữa tầng 2, các đồ lễ được lắp đặt công phu, tượng Bác Hồ bằng đồng (do Bộ Tư lệnh lăng Bác công đức) đặt chính giữa, phía trên tượng Bác là cờ Tổ quốc, phía trước tượng Bác là lư hương bằng đồng, hương khói toả quanh năm thờ cúng các vong linh anh hùng liệt sỹ. Đôi hạc bằng đồng cao 1, 68m và cặp rùa nặng 60kg đúc ở làng nghề Đại Bái tỉnh Bắc Ninh. \n\nPhần bia liệt sỹ gồm 16 tấm được đúc ở thành phố Hải Dương bằng đá đen Thanh Hoá, ghi tên 13 mẹ Việt Nam anh hùng đã qua đời và 990 liệt sỹ trên địa bàn 11 phường.\n\nVăn bia, đại tự, hoành phi, câu đối đều được Quận Hồng Bàng phát động cuộc thi sáng tác văn bia câu đối và mời giáo sư Vũ Khiêu Anh hùng lao động tận tình giúp đỡ. Văn bia có 2 phần, 4 chương được khắc trên bia đá. Câu đối có 16 câu, có 4 câu được khắc trên gỗ sơn son thiếp vàng với những nội dung mang ý nghĩa sâu sắc:\n\n\"Tận trung với nước, coi sơn hà xã tắc là thiêng Tận hiếu với dân, lấy độc lập tự do làm quý\".\n\n\"Lửa binh thử thách trăm vòng, xá ngại Đầu rơi máu chảy Son sắt đinh ninh một dạ, sao cho nước mạnh dân giàu\".\n\n Đền là biểu tượng quê hương - Dáng đứng hiên ngang tầm thế kỷ Quận ở trung tâm thành phố Hướng nhìn bao quát trùng dương\n\n Giương cờ Trưng Trắc, nổi trống Lê Chân Mảnh Đất trăm đời dũng khí Múa giáo Ngô Quyền, vung gươm Hưng Đạo Vùng trời muôn trượng anh linh v.v \n\nĐặc biệt tại đây có chuông đồng nặng 500kg, cao 1,67m, đường kính 810cm. Khánh đồng nặng 80kg, chiêng đồng nặng 20kg được đúc ở làng nghề Điện Phủ, Điện Bàn, Quảng Nam. \n\nHằng năm, vào các dịp lễ lớn như Ngày Thương binh Liệt sỹ (27/7), Tết Nguyên Đán và các ngày lễ kỷ niệm quan trọng khác, đền Liệt Sĩ quận Hồng Bàng thường tổ chức các buổi lễ tưởng niệm trang trọng. Các buổi lễ này thu hút đông đảo người dân địa phương, các cựu chiến binh và du khách đến tham dự, thể hiện lòng biết ơn và tôn vinh những anh hùng đã hy sinh.\n\nNgoài các hoạt động lễ nghi, đền Liệt Sỹ cũng là nơi giáo dục truyền thống yêu nước, khơi dậy tinh thần tự hào dân tộc cho các thế hệ trẻ. Các Trường học, tổ chức thanh niên thường xuyên tổ chức các chuyến thăm quan, tìm hiểu lịch sử tại đền, qua đó nâng cao nhận thức và lòng biết ơn đối với sự hy sinh của các thế hệ đi trước.\n\nĐền Liệt Sĩ quận Hồng Bàng không chỉ là nơi tưởng niệm các liệt sỹ mà còn là một biểu tượng văn hóa, thể hiện truyền thống \"Uống nước nhớ nguồn\" của dân tộc Việt Nam. Đây cũng là một điểm đến văn hóa, lịch sử thu hút nhiều du khách khi đến với thành phố Hải Phòng.\n\nThông qua việc duy trì và phát triển các hoạt động tại đền, quận Hồng Bàng và thành phố Hải Phòng đã góp phần gìn giữ và phát huy giá trị văn hóa, lịch sử, đồng thời gắn kết cộng đồng, củng cố tinh thần đoàn kết và lòng yêu nước của nhân dân.\n\nĐền Liệt Sĩ quận Hồng Bàng là một công trình mang ý nghĩa sâu sắc, là nơi ghi dấu những hy sinh cao cả của các anh hùng liệt sỹ. Đây không chỉ là nơi để tưởng nhớ và tri ân mà còn là một biểu tượng văn hóa, lịch sử của thành phố Hải Phòng, góp phần giáo dục truyền thống yêu nước cho các thế hệ mai sau.\n"
+    },
+    {
+        "place_id": 4,
+        "name": "Nhà hát Thành phố Hải Phòng",
+        "position": {
+            "latitude": 20.857374555574925,
+            "longitude": 106.6818621970784
+        },
+        "popupImgUrl": "/assets/image/nha-hat-thanh-pho/thumb.jpg",
+        "audio": "/assets/audio/Nhà hát.mp3",
+        "areas": [
+            {
+                "area_id": "toan_canh_giua_1",
+                "name": "Toàn Cảnh - Giữa 1",
+                "url": "/assets/image/nha-hat-thanh-pho/0_1.jpg",
+                "url_preview": "/assets/image/nha-hat-thanh-pho/previews/0_1.jpg",
+                "hotSpots": [
+                    {
+                        "pitch": -46.99604860819371,
+                        "yaw": -0.5160791034867274,
+                        "type": "scene",
+                        "sceneId": "toan_canh_giua_2"
+                    },
+                    {
+                        "pitch": -5.6969149612026815,
+                        "yaw": -29.752122938109327,
+                        "type": "scene",
+                        "sceneId": "toan_canh_phai"
+                    },
+                    {
+                        "pitch": -5.502792996720492,
+                        "yaw": 34.007720321431286,
+                        "type": "scene",
+                        "sceneId": "toan_canh_trai"
+                    }
+                ]
+            },
+            {
+                "area_id": "toan_canh_giua_2",
+                "name": "Toàn Cảnh - Giữa 2",
+                "url": "/assets/image/nha-hat-thanh-pho/0_1_1.jpg",
+                "url_preview": "/assets/image/nha-hat-thanh-pho/previews/0_1_1.jpg",
+                "hotSpots": [
+                    {
+                        "pitch": -65.06221116126599,
+                        "yaw": 2.3511185026008796,
+                        "type": "scene",
+                        "sceneId": "ngoai_chinh_dien"
+                    },
+                    {
+                        "pitch": -29.84038221935974,
+                        "yaw": -0.34607044464544456,
+                        "type": "scene",
+                        "sceneId": "ngoai_truoc_cua"
+                    },
+                    {
+                        "pitch": -31.964374179729248,
+                        "yaw": -56.5654029177307,
+                        "type": "scene",
+                        "sceneId": "ngoai_ben_trai"
+                    },
+                    {
+                        "pitch": -31.68582171171554,
+                        "yaw": 58.90123816335651,
+                        "type": "scene",
+                        "sceneId": "ngoai_ben_phai"
+                    }
+                ]
+            },
+            {
+                "area_id": "toan_canh_trai",
+                "name": "Toàn Cảnh - Trái",
+                "url": "/assets/image/nha-hat-thanh-pho/0_2.jpg",
+                "url_preview": "/assets/image/nha-hat-thanh-pho/previews/0_2.jpg",
+                "hotSpots": [
+                    {
+                        "pitch": -7.275207218623161,
+                        "yaw": -52.520758507599595,
+                        "type": "scene",
+                        "sceneId": "toan_canh_giua_1"
+                    },
+                    {
+                        "pitch": 0,
+                        "yaw": 0,
+                        "type": "scene",
+                        "sceneId": "toan_canh_phai"
+                    }
+                ]
+            },
+            {
+                "area_id": "toan_canh_phai",
+                "name": "Toàn Cảnh - Phải",
+                "url": "/assets/image/nha-hat-thanh-pho/0_3.jpg",
+                "url_preview": "/assets/image/nha-hat-thanh-pho/previews/0_3.jpg",
+                "hotSpots": [
+                    {
+                        "pitch": 0,
+                        "yaw": 0,
+                        "type": "scene",
+                        "sceneId": "toan_canh_trai"
+                    },
+                    {
+                        "pitch": -3.0453583742803954,
+                        "yaw": 54.89421645629625,
+                        "type": "scene",
+                        "sceneId": "toan_canh_giua_1"
+                    }
+                ]
+            },
+            {
+                "area_id": "ngoai_chinh_dien",
+                "name": "Bên Ngoài - Chính Diện",
+                "url": "/assets/image/nha-hat-thanh-pho/1.jpg",
+                "url_preview": "/assets/image/nha-hat-thanh-pho/previews/1.jpg",
+                "hotSpots": [
+                    {
+                        "pitch": 1.2468761337655945,
+                        "yaw": -178.9857612831457,
+                        "type": "scene",
+                        "sceneId": "ngoai_truoc_cua"
+                    },
+                    {
+                        "pitch": -0.46194278263868815,
+                        "yaw": 123.41666025735829,
+                        "type": "scene",
+                        "sceneId": "ngoai_ben_trai"
+                    },
+                    {
+                        "pitch": -0.6335455448470653,
+                        "yaw": -115.11038883592067,
+                        "type": "scene",
+                        "sceneId": "ngoai_ben_phai"
+                    }
+                ]
+            },
+            {
+                "area_id": "ngoai_truoc_cua",
+                "name": "Bên Ngoài - Trước cửa",
+                "url": "/assets/image/nha-hat-thanh-pho/1_0.jpg",
+                "url_preview": "/assets/image/nha-hat-thanh-pho/previews/1_0.jpg",
+                "hotSpots": [
+                    {
+                        "pitch": -1.0609055430750416,
+                        "yaw": 2.3199224526671607,
+                        "type": "scene",
+                        "sceneId": "ngoai_chinh_dien"
+                    },
+                    {
+                        "pitch": -1.750830508898541,
+                        "yaw": -179.39315360470394,
+                        "type": "scene",
+                        "sceneId": "t1_cua_vao_hanh_lang"
+                    },
+                    {
+                        "pitch": 2.17498321055931,
+                        "yaw": -143.1870966999493,
+                        "type": "info",
+                        "sceneId": "/assets/image/nha-hat-thanh-pho/1_0_1.jpg"
+                    },
+                    {
+                        "pitch": 2.6894631549633,
+                        "yaw": 144.96333967556942,
+                        "type": "info",
+                        "sceneId": "/assets/image/nha-hat-thanh-pho/1_0_2.jpg"
+                    }
+                ]
+            },
+            {
+                "area_id": "ngoai_ben_trai",
+                "name": "Bên Ngoài - Bên Trái",
+                "url": "/assets/image/nha-hat-thanh-pho/1_1.jpg",
+                "url_preview": "/assets/image/nha-hat-thanh-pho/previews/1_1.jpg",
+                "hotSpots": [
+                    {
+                        "pitch": 2.380300741345446,
+                        "yaw": -158.92060989101685,
+                        "type": "scene",
+                        "sceneId": "ngoai_truoc_cua"
+                    },
+                    {
+                        "pitch": -0.6168297172278958,
+                        "yaw": -113.45217381468777,
+                        "type": "scene",
+                        "sceneId": "ngoai_chinh_dien"
+                    }
+                ]
+            },
+            {
+                "area_id": "ngoai_ben_phai",
+                "name": "Bên Ngoài - Bên Phải",
+                "url": "/assets/image/nha-hat-thanh-pho/1_2.jpg",
+                "url_preview": "/assets/image/nha-hat-thanh-pho/previews/1_2.jpg",
+                "hotSpots": [
+                    {
+                        "pitch": 3.9200954917217596,
+                        "yaw": 170.03685253995917,
+                        "type": "scene",
+                        "sceneId": "ngoai_truoc_cua"
+                    },
+                    {
+                        "pitch": 0.4460762728881111,
+                        "yaw": 129.0983508815065,
+                        "type": "scene",
+                        "sceneId": "ngoai_chinh_dien"
+                    }
+                ]
+            },
+            {
+                "area_id": "t1_cua_vao_hanh_lang",
+                "name": "T1 - Cửa vào hành lang",
+                "url": "/assets/image/nha-hat-thanh-pho/2.jpg",
+                "url_preview": "/assets/image/nha-hat-thanh-pho/previews/2.jpg",
+                "hotSpots": [
+                    {
+                        "pitch": -1.1976438996828116,
+                        "yaw": 179.12518777157607,
+                        "type": "scene",
+                        "sceneId": "ngoai_truoc_cua"
+                    },
+                    {
+                        "pitch": 2.4426427641872843,
+                        "yaw": 4.425000797871888,
+                        "type": "scene",
+                        "sceneId": "t1_loi_vao_phai"
+                    },
+                    {
+                        "pitch": 2.4,
+                        "yaw": -6.139939378999194,
+                        "type": "scene",
+                        "sceneId": "t1_loi_vao_trai"
+                    },
+                    {
+                        "pitch": 2.2,
+                        "yaw": 38.42774710151309,
+                        "type": "scene",
+                        "sceneId": "t1_hanh_lang_phai_duoi"
+                    },
+                    {
+                        "pitch": 2,
+                        "yaw": -38,
+                        "type": "scene",
+                        "sceneId": "t1_hanh_lang_trai_duoi"
+                    },
+                    {
+                        "pitch": -5.5171995385583195,
+                        "yaw": 92.44765743017197,
+                        "type": "scene",
+                        "sceneId": "t2_loi_len_cau_thang_phai"
+                    },
+                    {
+                        "pitch": -4.208983896453308,
+                        "yaw": -92.43903924686921,
+                        "type": "scene",
+                        "sceneId": "t2_loi_len_cau_thang_trai"
+                    }
+                ]
+            },
+            {
+                "area_id": "t1_loi_vao_phai",
+                "name": "T1 - Lối vào Trung tâm - Phải",
+                "url": "/assets/image/nha-hat-thanh-pho/2_1.jpg",
+                "url_preview": "/assets/image/nha-hat-thanh-pho/previews/2_1.jpg",
+                "hotSpots": [
+                    {
+                        "pitch": -19.206213595719678,
+                        "yaw": 88.3793258384759,
+                        "type": "scene",
+                        "sceneId": "t1_loi_vao_trai"
+                    },
+                    {
+                        "pitch": -17.082176621083327,
+                        "yaw": -77.34645593966178,
+                        "type": "scene",
+                        "sceneId": "t1_hanh_lang_phai_duoi"
+                    },
+                    {
+                        "pitch": -10.45594937505234,
+                        "yaw": 32.64137985287359,
+                        "type": "scene",
+                        "sceneId": "t1_cua_vao_hanh_lang"
+                    }
+                ]
+            },
+            {
+                "area_id": "t1_hanh_lang_phai_duoi",
+                "name": "T1 - Hành Lang Phải - Dưới",
+                "url": "/assets/image/nha-hat-thanh-pho/2_1_1.jpg",
+                "url_preview": "/assets/image/nha-hat-thanh-pho/previews/2_1_1.jpg",
+                "hotSpots": [
+                    {
+                        "pitch": -8.04013051639197,
+                        "yaw": 70.07935691750906,
+                        "type": "scene",
+                        "sceneId": "t1_loi_vao_phai"
+                    },
+                    {
+                        "pitch": -2.5996029043346796,
+                        "yaw": 7.721959661395257,
+                        "type": "scene",
+                        "sceneId": "t1_cua_vao_hanh_lang"
+                    },
+                    {
+                        "pitch": -8.47938626066869,
+                        "yaw": -171.91361095887117,
+                        "type": "scene",
+                        "sceneId": "t1_hanh_lang_phai_giua"
+                    }
+                ]
+            },
+            {
+                "area_id": "t1_hanh_lang_phai_giua",
+                "name": "T1 - Hành Lang Phải - Giữa",
+                "url": "/assets/image/nha-hat-thanh-pho/2_1_2.jpg",
+                "url_preview": "/assets/image/nha-hat-thanh-pho/previews/2_1_2.jpg",
+                "hotSpots": [
+                    {
+                        "pitch": -7.885226102543638,
+                        "yaw": 104.902469138933,
+                        "type": "scene",
+                        "sceneId": "t1_hanh_lang_phai_duoi"
+                    },
+                    {
+                        "pitch": -6.72814431889286,
+                        "yaw": -102.25749662123212,
+                        "type": "scene",
+                        "sceneId": "t1_hanh_lang_phai_tren"
+                    },
+                    {
+                        "pitch": -14.192216941813289,
+                        "yaw": 169.65981276654995,
+                        "type": "scene",
+                        "sceneId": "t1_khu_ghe_canh_phai"
+                    }
+                ]
+            },
+            {
+                "area_id": "t1_khu_ghe_canh_phai",
+                "name": "T1 - Khu Ghế Cánh Phải",
+                "url": "/assets/image/nha-hat-thanh-pho/2_1_3.jpg",
+                "url_preview": "/assets/image/nha-hat-thanh-pho/previews/2_1_3.jpg",
+                "hotSpots": [
+                    {
+                        "pitch": -21.540415014560658,
+                        "yaw": -54.87302234925889,
+                        "type": "scene",
+                        "sceneId": "t1_hanh_lang_phai_giua"
+                    },
+                    {
+                        "pitch": -9.977589285823441,
+                        "yaw": 99.75914574234969,
+                        "type": "scene",
+                        "sceneId": "t1_ghe_hang_tren"
+                    }
+                ]
+            },
+            {
+                "area_id": "t1_hanh_lang_phai_tren",
+                "name": "T1 - Hành Lang Phải - Trên",
+                "url": "/assets/image/nha-hat-thanh-pho/2_1_4.jpg",
+                "url_preview": "/assets/image/nha-hat-thanh-pho/previews/2_1_4.jpg",
+                "hotSpots": [
+                    {
+                        "pitch": -8.197072342610998,
+                        "yaw": -1.0860284524890147,
+                        "type": "scene",
+                        "sceneId": "t1_hanh_lang_phai_giua"
+                    },
+                    {
+                        "pitch": -7.56305572131323,
+                        "yaw": 85.61111463309796,
+                        "type": "scene",
+                        "sceneId": "t1_ghe_hang_duoi"
+                    }
+                ]
+            },
+            {
+                "area_id": "t1_loi_vao_trai",
+                "name": "T1 - Lối vào Trung tâm - Trái",
+                "url": "/assets/image/nha-hat-thanh-pho/2_2.jpg",
+                "url_preview": "/assets/image/nha-hat-thanh-pho/previews/2_2.jpg",
+                "hotSpots": [
+                    {
+                        "pitch": -26.38769691200889,
+                        "yaw": -93.38354856481658,
+                        "type": "scene",
+                        "sceneId": "t1_loi_vao_phai"
+                    },
+                    {
+                        "pitch": -3.956411285086553,
+                        "yaw": -90.93397448490072,
+                        "type": "scene",
+                        "sceneId": "t1_hanh_lang_phai_duoi"
+                    },
+                    {
+                        "pitch": -12.886884329761843,
+                        "yaw": 76.38462628375999,
+                        "type": "scene",
+                        "sceneId": "t1_hanh_lang_trai_duoi"
+                    }
+                ]
+            },
+            {
+                "area_id": "t1_hanh_lang_trai_duoi",
+                "name": "T1 - Hành Lang Trái - Dưới",
+                "url": "/assets/image/nha-hat-thanh-pho/2_2_1.jpg",
+                "url_preview": "/assets/image/nha-hat-thanh-pho/previews/2_2_1.jpg",
+                "hotSpots": [
+                    {
+                        "pitch": -3.362744178689965,
+                        "yaw": 0.18597842832937417,
+                        "type": "scene",
+                        "sceneId": "t1_cua_vao_hanh_lang"
+                    },
+                    {
+                        "pitch": -9.511887692697359,
+                        "yaw": -64.18034489561924,
+                        "type": "scene",
+                        "sceneId": "t1_loi_vao_trai"
+                    },
+                    {
+                        "pitch": -4.664221497171582,
+                        "yaw": -179.8936664902056,
+                        "type": "scene",
+                        "sceneId": "t1_hanh_lang_trai_giua"
+                    }
+                ]
+            },
+            {
+                "area_id": "t1_hanh_lang_trai_giua",
+                "name": "T1 - Hành Lang Trái - Giữa",
+                "url": "/assets/image/nha-hat-thanh-pho/2_2_2.jpg",
+                "url_preview": "/assets/image/nha-hat-thanh-pho/previews/2_2_2.jpg",
+                "hotSpots": [
+                    {
+                        "pitch": -17.519214543934716,
+                        "yaw": 178.9205697572588,
+                        "type": "scene",
+                        "sceneId": "t1_khu_ghe_canh_trai"
+                    },
+                    {
+                        "pitch": -3.9986025417395856,
+                        "yaw": 104.02693628228826,
+                        "type": "scene",
+                        "sceneId": "t1_hanh_lang_trai_tren"
+                    },
+                    {
+                        "pitch": -7.655438038500606,
+                        "yaw": -98.22170548253479,
+                        "type": "scene",
+                        "sceneId": "t1_hanh_lang_trai_duoi"
+                    }
+                ]
+            },
+            {
+                "area_id": "t1_khu_ghe_canh_trai",
+                "name": "T1 - Khu Ghế Cánh Trái",
+                "url": "/assets/image/nha-hat-thanh-pho/2_2_3.jpg",
+                "url_preview": "/assets/image/nha-hat-thanh-pho/previews/2_2_3.jpg",
+                "hotSpots": [
+                    {
+                        "pitch": -10.760611887551422,
+                        "yaw": -129.06851287555273,
+                        "type": "scene",
+                        "sceneId": "t1_ghe_hang_tren"
+                    },
+                    {
+                        "pitch": -28.310749551960665,
+                        "yaw": 47.02236639337908,
+                        "type": "scene",
+                        "sceneId": "t1_hanh_lang_trai_giua"
+                    }
+                ]
+            },
+            {
+                "area_id": "t1_hanh_lang_trai_tren",
+                "name": "T1 - Hành Lang Trái - Trên",
+                "url": "/assets/image/nha-hat-thanh-pho/2_2_4.jpg",
+                "url_preview": "/assets/image/nha-hat-thanh-pho/previews/2_2_4.jpg",
+                "hotSpots": [
+                    {
+                        "pitch": -10.483908330053296,
+                        "yaw": -177.45984837501535,
+                        "type": "scene",
+                        "sceneId": "t1_ghe_hang_duoi"
+                    },
+                    {
+                        "pitch": -9.122871456605088,
+                        "yaw": -93.83975962773326,
+                        "type": "scene",
+                        "sceneId": "t1_hanh_lang_trai_giua"
+                    }
+                ]
+            },
+            {
+                "area_id": "t1_ghe_hang_duoi",
+                "name": "T1 - Ghế Khán Giả - Hàng Dưới",
+                "url": "/assets/image/nha-hat-thanh-pho/3.jpg",
+                "url_preview": "/assets/image/nha-hat-thanh-pho/previews/3.jpg",
+                "hotSpots": [
+                    {
+                        "pitch": 4.043055380053687,
+                        "yaw": 88.04343599400568,
+                        "type": "scene",
+                        "sceneId": "t1_hanh_lang_phai_tren"
+                    },
+                    {
+                        "pitch": 3.514547994444317,
+                        "yaw": -87.61849442797192,
+                        "type": "scene",
+                        "sceneId": "t1_hanh_lang_trai_tren"
+                    },
+                    {
+                        "pitch": 3.5212967675255986,
+                        "yaw": 0.6068903569390223,
+                        "type": "scene",
+                        "sceneId": "t1_san_khau_1"
+                    }
+                ]
+            },
+            {
+                "area_id": "t1_ghe_hang_tren",
+                "name": "T1 - Ghế Khán Giả - Hàng trên",
+                "url": "/assets/image/nha-hat-thanh-pho/3_1.jpg",
+                "url_preview": "/assets/image/nha-hat-thanh-pho/previews/3_1.jpg",
+                "hotSpots": [
+                    {
+                        "pitch": 6.575247661809202,
+                        "yaw": 93.93130372803574,
+                        "type": "scene",
+                        "sceneId": "t1_khu_ghe_canh_phai"
+                    },
+                    {
+                        "pitch": 7.2657237301128985,
+                        "yaw": -96.66264280208037,
+                        "type": "scene",
+                        "sceneId": "t1_khu_ghe_canh_trai"
+                    }
+                ]
+            },
+            {
+                "area_id": "t1_san_khau_1",
+                "name": "T1 - Sân khấu 1",
+                "url": "/assets/image/nha-hat-thanh-pho/3_2.jpg",
+                "url_preview": "/assets/image/nha-hat-thanh-pho/previews/3_2.jpg",
+                "hotSpots": [
+                    {
+                        "pitch": -1.5735791716642171,
+                        "yaw": 109.26087859840547,
+                        "type": "scene",
+                        "sceneId": "t1_hanh_lang_phai_tren"
+                    },
+                    {
+                        "pitch": -2.2417694101303107,
+                        "yaw": -116.0284542742508,
+                        "type": "scene",
+                        "sceneId": "t1_hanh_lang_trai_tren"
+                    },
+                    {
+                        "pitch": -5.304099649538315,
+                        "yaw": -2.967315654018489,
+                        "type": "scene",
+                        "sceneId": "t1_san_khau_2"
+                    }
+                ]
+            },
+            {
+                "area_id": "t1_san_khau_2",
+                "name": "T1 - Sân khấu 2",
+                "url": "/assets/image/nha-hat-thanh-pho/3_2_1.jpg",
+                "url_preview": "/assets/image/nha-hat-thanh-pho/previews/3_2_1.jpg",
+                "hotSpots": [
+                    {
+                        "pitch": -6.512364472385721,
+                        "yaw": 0,
+                        "type": "scene",
+                        "sceneId": "t1_san_khau_1"
+                    }
+                ]
+            },
+            {
+                "area_id": "t2_loi_len_cau_thang_trai",
+                "name": "T2 - Lối lên cầu thang - Trái",
+                "url": "/assets/image/nha-hat-thanh-pho/4.jpg",
+                "url_preview": "/assets/image/nha-hat-thanh-pho/previews/4.jpg",
+                "hotSpots": [
+                    {
+                        "pitch": -14.771344826939952,
+                        "yaw": 86.21532542247667,
+                        "type": "scene",
+                        "sceneId": "t1_cua_vao_hanh_lang"
+                    },
+                    {
+                        "pitch": 0.9739105300626764,
+                        "yaw": -44.809106182151716,
+                        "type": "scene",
+                        "sceneId": "t2_loi_len_cau_thang_giua"
+                    },
+                    {
+                        "pitch": -2.7634980002044327,
+                        "yaw": -176.08782700311284,
+                        "type": "scene",
+                        "sceneId": "t2_hoi_truong_giua"
+                    },
+                    {
+                        "pitch": -5.575282245892676,
+                        "yaw": -91.08182889197664,
+                        "type": "scene",
+                        "sceneId": "t2_loi_len_cau_thang_phai"
+                    }
+                ]
+            },
+            {
+                "area_id": "t2_loi_len_cau_thang_phai",
+                "name": "T2 - Lối lên cầu thang - Phải",
+                "url": "/assets/image/nha-hat-thanh-pho/4_1.jpg",
+                "url_preview": "/assets/image/nha-hat-thanh-pho/previews/4_1.jpg",
+                "hotSpots": [
+                    {
+                        "pitch": -17.47471196722135,
+                        "yaw": -91.24645441599893,
+                        "type": "scene",
+                        "sceneId": "t1_cua_vao_hanh_lang"
+                    },
+                    {
+                        "pitch": 0.9502042251798158,
+                        "yaw": 55.188699682350624,
+                        "type": "scene",
+                        "sceneId": "t2_loi_len_cau_thang_giua"
+                    },
+                    {
+                        "pitch": -1.3578318175584525,
+                        "yaw": 170.4888568953792,
+                        "type": "scene",
+                        "sceneId": "t2_hoi_truong_giua"
+                    },
+                    {
+                        "pitch": -5.53349263635825,
+                        "yaw": 89.59202903971136,
+                        "type": "scene",
+                        "sceneId": "t2_loi_len_cau_thang_trai"
+                    }
+                ]
+            },
+            {
+                "area_id": "t2_loi_len_cau_thang_giua",
+                "name": "Lối lên cầu thang - Giữa",
+                "url": "/assets/image/nha-hat-thanh-pho/4_2.jpg",
+                "url_preview": "/assets/image/nha-hat-thanh-pho/previews/4_2.jpg",
+                "hotSpots": [
+                    {
+                        "pitch": 2.6320606264924655,
+                        "yaw": -35.02416814434527,
+                        "type": "scene",
+                        "sceneId": "t2_loi_len_cau_thang_phai"
+                    },
+                    {
+                        "pitch": 2.5563209642360154,
+                        "yaw": -143.10853952866438,
+                        "type": "scene",
+                        "sceneId": "t2_loi_len_cau_thang_trai"
+                    }
+                ]
+            },
+            {
+                "area_id": "t2_hoi_truong_giua",
+                "name": "T2 - Hội Trường - Giữa",
+                "url": "/assets/image/nha-hat-thanh-pho/5.jpg",
+                "url_preview": "/assets/image/nha-hat-thanh-pho/previews/5.jpg",
+                "hotSpots": [
+                    {
+                        "pitch": 6.925175013289368,
+                        "yaw": 38.70783366123798,
+                        "type": "scene",
+                        "sceneId": "t2_ghe_phai"
+                    },
+                    {
+                        "pitch": 8.803639874649294,
+                        "yaw": -33.27952216174882,
+                        "type": "scene",
+                        "sceneId": "t2_ghe_trai"
+                    },
+                    {
+                        "pitch": -33.13060613626906,
+                        "yaw": 115.87585651998886,
+                        "type": "scene",
+                        "sceneId": "t2_loi_len_cau_thang_phai"
+                    },
+                    {
+                        "pitch": -18.820296188616084,
+                        "yaw": -122.59229741753697,
+                        "type": "scene",
+                        "sceneId": "t2_loi_len_cau_thang_trai"
+                    }
+                ]
+            },
+            {
+                "area_id": "t2_ghe_trai",
+                "name": "T2 - Ghế Khán Giả - Trái",
+                "url": "/assets/image/nha-hat-thanh-pho/5_1.jpg",
+                "url_preview": "/assets/image/nha-hat-thanh-pho/previews/5_1.jpg",
+                "hotSpots": [
+                    {
+                        "pitch": 0.7728265220876912,
+                        "yaw": -111.59735388105952,
+                        "type": "scene",
+                        "sceneId": "t2_hoi_truong_giua"
+                    }
+                ]
+            },
+            {
+                "area_id": "t2_ghe_phai",
+                "name": "T2 - Ghế Khán Giả - Phải",
+                "url": "/assets/image/nha-hat-thanh-pho/5_2.jpg",
+                "url_preview": "/assets/image/nha-hat-thanh-pho/previews/5_2.jpg",
+                "hotSpots": [
+                    {
+                        "pitch": 0.9850074668536393,
+                        "yaw": 118.60077525707321,
+                        "type": "scene",
+                        "sceneId": "t2_hoi_truong_giua"
+                    }
+                ]
+            }
+        ],
+        "text_desc": "Nhà Hát Thành Phố Hải Phòng - di tích Kiến trúc nghệ thuật cấp quốc gia, tọa lạc tại số 28 Trần Hưng Đạo, phường Hoàng Văn Thụ, quận Hồng Bàng, thành phố Hải Phòng. Đây không chỉ đơn thuần là một công trình kiến trúc cổ kính, mà còn là một công trình mang tính biểu tượng, lưu giữ nhiều giá trị về kiến trúc, nghệ thuật và lịch sử góp phần làm nên diện mạo văn hóa của thành phố cảng Hải Phòng.\n\nSự ra đời của Nhà hát gắn liền với sự ra đời và phát triển của thành phố Hải Phòng. Ngày 19/7/1888 theo sắc lệnh của Tổng thống Pháp, thành phố Hải Phòng được thành lập và được xếp loại ngang Hà Nội và Sài Gòn. Cũng trong những năm này, Pháp đẩy mạnh việc xây dựng Cảng Hải Phòng. Sau khi đặt các cầu tầu vào năm 1885 đến năm 1887, Pháp cho đặt hệ thống đăng tiêu trên sông Cấm, lập kho chứa hàng (bến sáu kho), dựng đèn biển (Hòn Dấu) để hướng dẫn tàu bè ra vào. Như vậy, vào cuối thế kỷ 19, Hải Phòng đã trở thành một hải cảng, một trung tâm công nghiệp ở phía Bắc Việt Nam.\n\nCùng với việc xây dựng thành phố, Pháp còn cho xây dựng các công trình văn hóa phục vụ cho nhu cầu hưởng thụ của tư bản Pháp và quan lại bản xứ, tư sản Việt Nam. Nhu cầu thưởng thức văn hóa nghệ thuật của nhóm giai cấp này ngày một lớn, đòi hỏi cần phải có một nhà hát. Sự ra đời của Nhà hát lớn Hải Phòng là một nhu cầu tất yếu.\n\nHiện, các nhà nghiên cứu chưa tìm thấy tư liệu công bố chính thức Nhà hát lớn thành phố khởi công và khánh thành vào năm nào. Tuy nhiên theo nhiên theo một số nguồn tin nhà hát được xây dựng vào năm 1904 và được hoàn thiện sau 8 năm. Và hiện nay tại bảo tàng Hải Phòng vẫn còn lưu giữa 1 bức ảnh chụp nhà hát vào ngày 12/5/1909, có lẽ đây là hình ảnh sớm nhất về Nhà hát lớn Hải Phòng.\n\nDưới thời thuộc Pháp, Nhà hát thành phố được gọi là \"nhà hát Tây\" không chỉ là nơi sinh hoạt chính trị, văn hóa của chế độ thực dân, phong kiến mà đây chính là minh chứng đã ghi những dấu ấn, mốc son lịch sử của cách mạng dân tộc nói chung và thành phố Hải Phòng nói riêng.\n\nTại Quảng trường Nhà hát thành phố, sáng ngày 23/8/1945, hàng vạn nhân dân, có lực lượng tự vệ hỗ trợ, từ nhiều ngả đường gương cao cờ đỏ sao vàng đổ về. Đúng 10 giờ, cuộc mít tinh trọng thể khai mạc tại quảng trường Nhà hát. Đồng chí Nguyễn Quốc Uy thay mặt Ủy ban khởi nghĩa tuyên bố xóa bỏ chính quyền tay sai của phát xít Nhật, thành lập Ủy ban nhân dân cách mạng lâm thời Hải Phòng.\n\nNgày 20/11/1946, tại đây, đã diễn ra trận đánh quyết tử để bảo vệ thành phố. 13 chiến sĩ Vệ quốc đoàn và các chiến sĩ đội Văn nghệ tuyên truyền văn hóa do Trung đội trưởng Đặng Kim Nở và Đội trưởng văn nghệ Chiến khu III Nguyễn Văn Đào chỉ huy đã chiến đấu anh dũng, với tinh thần \"Quyết tử cho Tổ quốc quyết sinh\". Trận đánh không cân sức giữa các chiến sĩ  ta chỉ có vũ khí thô sơ: giáo mác, gậy gộc, lựu đạn… với quân địch có xe tăng, đại bác yểm trợ, đã diễn ra vô cùng ác liệt. Quân ta đã cầm chân quân đội Pháp suốt 7 ngày liền và phần lớn các chiến sĩ đã anh dũng hy sinh.\n\nSau Cách mạng Tháng Tám, Nhà hát thành phố là địa điểm trung tâm tổ chức các hoạt động của chính quyền cách mạng như: Tuần lễ vàng, phong trào cứu đói, phong trào Nam tiến. Quảng trường Nhà hát thành phố còn là nơi chứng kiến sự kiện hàng vạn nhân dân nội, ngoại thành đón chào bộ đội tiến vào tiếp quản thành phố ngày 13/5/1955. \n\nTừ đó đến nay, Nhà hát đã đóng góp quan trọng cho sự phát triển của thành phố Hải Phòng về văn hóa, xã hội, du lịch. Đặc biệt tháng 12/2015, Nhà hát đã vinh dự được công nhận là Di tích kiến trúc nghệ thuật cấp quốc gia, trở thành một trong những điểm du lịch tại Hải Phòng được nhiều người biết tới.\n\nTừ mặt thiết kế đến vật liệu xây dựng và các hoa văn trang trí kiến trúc hoàn toàn là hình mẫu, là sản phẩm của văn hóa châu  u, Nhà hát thành phố là công trình kiến trúc mang phong cách \"Tân cổ điển\", kế thừa nét đẹp kiến trúc Hy - La cổ đại và phối hợp đường nét, hình khối Baroc chắc khỏe; trang trí mĩ thuật, hội họa mang phong cách lãng mạn Pháp, tinh tế, chi tiết, chuẩn mực. Bên cạnh đó, không gian nội thất Nhà hát thành phố như một bảo tàng mỹ thuật sống động, đa sắc màu, giàu truyền thuyết Hy - La với các hoa văn trang trí dày đặc, tỉ mỉ, trau truốt, tạo cho nơi đây trở thành một không gian nghệ thuật đầy ấn tượng. \n\nPhía trước nhà hát lớn là một quảng trường rất rộng cùng vườn hoa và đài phun nước nghệ thuật ngày đêm tung bọt trắng xóa. Nhìn từ xa, đài phun nước như màn sương bao phủ lấy cột cờ Tổ quốc nguy nga, tạo nên không gian đậm tính dân tộc, ghi dấu ấn đối với cả khách du lịch trong và ngoài nước. \n\nMặt tiền nhà hát được thiết kế với kết cấu đối xứng theo phương ngang, các chi tiết được sắp xếp một cách tỉ mỉ, chặt chẽ. Từ khoảng cách giữa các cây cột cho đến ô cửa đều được trang trí họa tiết độc đáo, tạo thành một tổng thể mang tính thẩm mỹ cao. Tiếp đến, điểm đắt giá nhất trong thiết kế của nhà hát lớn Hải Phòng chính là hình tượng của chiếc đàn Lia. Trong văn hóa nghệ thuật tại phương Tây, loại đàn này là biểu tượng cao quý nhất của âm nhạc, nên được lựa chọn trở thành hình ảnh trang trí xuyên suốt tại nhà hát.\n\nNhà hát có kết cấu 2 tầng đồ sộ, tổng số cửa ra vào và cửa sổ là hơn 100. Tất cả các cánh cửa đều được sơn màu vàng vô cùng nổi bật. Cùng với đó, nhà hát còn được xây dựng với 4 cột trụ màu trắng, lấy cảm hứng thiết kế theo lối Côranhđiên, vừa mềm mại vừa chắc chắn, tăng độ vững cho các bức tường thêm kiên cố.\n\nBên trong nhà hát được thiết kế vô cùng ấn tượng bởi những đường nét cứng cáp, mạnh mẽ. Kiến trúc sư đã tận dụng triệt để những đường cong và mái vòm để tạo nên một không gian sinh động, thu hút, đầy tính nghệ thuật. Khu vực tầng 1 là tiền sảnh, cũng là nơi chuyên tiếp khách quý, sử dụng nội thất kiểu  u cổ điển và sang chảnh. Các họa tiết được sử dụng để trang trí cũng rất tinh xảo, xa hoa như một căn phòng dành cho hoàng tộc. Còn tầng 2 là khán phòng chính, chuyên tổ chức các sự kiện lớn, với sức chứa khoảng 400 ghế ngồi, mỗi ghế đều được bọc nhung đỏ tạo cảm giác cực kỳ sang trọng.\n\nKhu vực sân khấu đặt một bức tượng thần âm nhạc, là vị thần bảo hộ cho các nghệ sĩ. Còn hai bên cánh gà là khu vực phòng nghỉ và phòng trang điểm để diễn viên và nhạc công sử dụng, cửa sổ cách âm tốt, đảm bảo sự riêng tư và thoải mái. Đặc biệt nhất phải kể đến thiết kế trần nhà, tạo hình dạng vòm vừa để tăng thêm chiều cao của nhà hát vừa tạo tiếng vang trong các buổi biểu diễn. Sự tỉ mỉ trong thiết kế của công trình này phải kể đến việc từng lẵng hoa nhỏ cũng được ghi tên các những nhà soạn nhạc và kịch sĩ lừng danh như: Beethoven, Mozart hay Moliere... \n\nTrong suốt hơn một thế kỷ, Nhà hát lớn Hải Phòng đã trải qua quá trình tu sửa rất nhiều lần cùng một vài thay đổi trong những chi tiết nhỏ. Từ màu sơn cho đến cách trang trí, ban quản lý nhà hát đều cố gắng giữ nguyên như thiết kế ban đầu, đảm bảo vẻ đẹp nguyên bản và truyền thống.\n\nNhà Hát Thành Phố Hải Phòng không chỉ là một công trình kiến trúc đẹp mắt mà còn là một biểu tượng văn hóa quan trọng của thành phố. Nhà hát thường xuyên tổ chức các buổi biểu diễn nghệ thuật đa dạng, từ các vở kịch kinh điển, các buổi hòa nhạc thính phòng, đến những chương trình ca múa nhạc hiện đại. Đây là nơi hội tụ của các nghệ sĩ tài năng và là không gian thưởng thức nghệ thuật lý tưởng cho người dân Hải Phòng cũng như du khách.\n\nCác hoạt động tại nhà hát không chỉ dừng lại ở các buổi biểu diễn mà còn bao gồm các chương trình giáo dục nghệ thuật, hội thảo, và các sự kiện văn hóa. Nhà hát đóng vai trò quan trọng trong việc nâng cao nhận thức và tình yêu nghệ thuật trong cộng đồng, đồng thời là nơi bảo tồn và phát huy các giá trị văn hóa truyền thống.\n\nVới vị trí đắc địa ngay trung tâm thành phố, Nhà Hát Thành Phố Hải Phòng là điểm đến không thể bỏ qua đối với du khách khi đến thăm thành phố. Du khách có thể chiêm ngưỡng kiến trúc độc đáo, tìm hiểu về lịch sử phong phú của nhà hát, và tận hưởng những buổi biểu diễn nghệ thuật đặc sắc.\n\nBên cạnh việc tham quan nhà hát, du khách còn có thể khám phá các điểm du lịch nổi tiếng khác của Hải Phòng như Bến Bính, Đồ Sơn, và các khu phố cổ kính với những nét văn hóa đặc trưng của vùng đất cảng. Các tuyến đường xung quanh nhà hát cũng rất thuận tiện cho việc di chuyển và tham quan, giúp du khách dễ dàng tiếp cận các điểm đến khác.\n\nNhà Hát Thành Phố Hải Phòng không chỉ là một công trình kiến trúc và văn hóa đặc sắc, mà còn là một phần không thể thiếu trong đời sống văn hóa và nghệ thuật của người dân Hải Phòng. Với vai trò là trung tâm nghệ thuật của thành phố, nhà hát đã góp phần làm phong phú thêm đời sống văn hóa của cộng đồng, đồng thời là điểm đến hấp dẫn cho du khách yêu thích nghệ thuật và lịch sử. Nhà hát xứng đáng là niềm tự hào của thành phố Hải Phòng và là minh chứng cho sự phát triển bền vững của nền văn hóa nghệ thuật Việt Nam."
+    },
+    {
+        "place_id": 5,
+        "name": "Tháp Sở Dầu",
+        "position": {
+            "latitude": 20.871562067683318,
+            "longitude": 106.65541297718542
+        },
+        "mapRedirect": "Tổng kho Xăng dầu Thượng Lý",
+        "popupImgUrl": "/assets/image/thap-so-dau/thumb.jpg",
+        "audio": "/assets/audio/Tháp sở dầu.mp3",
+        "areas": [
+            {
+                "area_id": "tren_cao_1",
+                "name": "Trên Cao 1",
+                "url": "/assets/image/thap-so-dau/0_1.jpg",
+                "url_preview": "/assets/image/thap-so-dau/previews/0_1.jpg",
+                "hotSpots": [
+                    {
+                        "pitch": -24.05601196566586,
+                        "yaw": -1.7091277106222946,
+                        "type": "scene",
+                        "sceneId": "tren_cao_2"
+                    }
+                ]
+            },
+            {
+                "area_id": "tren_cao_2",
+                "name": "Trên Cao 2",
+                "url": "/assets/image/thap-so-dau/0_2.jpg",
+                "url_preview": "/assets/image/thap-so-dau/previews/0_2.jpg",
+                "hotSpots": [
+                    {
+                        "pitch": -74.65860663269514,
+                        "yaw": -38.25197745221715,
+                        "type": "scene",
+                        "sceneId": "chinh_dien_xa"
+                    },
+                    {
+                        "pitch": -51.301745702033486,
+                        "yaw": -5.609851958672284,
+                        "type": "scene",
+                        "sceneId": "chinh_dien_gan"
+                    },
+                    {
+                        "pitch": -39.10731610375596,
+                        "yaw": -17.320268801323056,
+                        "type": "scene",
+                        "sceneId": "ben_trai_thap"
+                    },
+                    {
+                        "pitch": -41.31071005096308,
+                        "yaw": 15.035082978407104,
+                        "type": "scene",
+                        "sceneId": "ben_phai_thap"
+                    }
+                ]
+            },
+            {
+                "area_id": "chinh_dien_xa",
+                "name": "Chính Diện - Bảng Tên",
+                "url": "/assets/image/thap-so-dau/1.jpg",
+                "url_preview": "/assets/image/thap-so-dau/previews/1.jpg",
+                "hotSpots": [
+                    {
+                        "pitch": -7.28900766533836,
+                        "yaw": -42.90240450064517,
+                        "type": "info",
+                        "sceneId": "/assets/image/thap-so-dau/1_0.jpg"
+                    },
+                    {
+                        "pitch": -8.804222707511087,
+                        "yaw": 3.5195377807075996,
+                        "type": "scene",
+                        "sceneId": "chinh_dien_gan"
+                    }
+                ]
+            },
+            {
+                "area_id": "chinh_dien_gan",
+                "name": "Chính Diện - Bên Dưới Tháp",
+                "url": "/assets/image/thap-so-dau/1_1.jpg",
+                "url_preview": "/assets/image/thap-so-dau/previews/1_1.jpg",
+                "hotSpots": [
+                    {
+                        "pitch": -33.155038178470754,
+                        "yaw": 55.04036252013357,
+                        "type": "scene",
+                        "sceneId": "ben_phai_thap"
+                    },
+                    {
+                        "pitch": -30.780921441548035,
+                        "yaw": -52.93177623138972,
+                        "type": "scene",
+                        "sceneId": "ben_trai_thap"
+                    },
+                    {
+                        "pitch": 37.866498177746024,
+                        "yaw": 179.67303472386175,
+                        "type": "scene",
+                        "sceneId": "chinh_dien_xa"
+                    }
+                ]
+            },
+            {
+                "area_id": "ben_phai_thap",
+                "name": "Bên Phải - Bên Dưới Tháp",
+                "url": "/assets/image/thap-so-dau/1_2.jpg",
+                "url_preview": "/assets/image/thap-so-dau/previews/1_2.jpg",
+                "hotSpots": [
+                    {
+                        "pitch": -3.0185355434504313,
+                        "yaw": 139.982998554137,
+                        "type": "scene",
+                        "sceneId": "chinh_dien_gan"
+                    },
+                    {
+                        "pitch": -2.4011546907842014,
+                        "yaw": -139.68665350667203,
+                        "type": "scene",
+                        "sceneId": "dang_sau_thap"
+                    }
+                ]
+            },
+            {
+                "area_id": "dang_sau_thap",
+                "name": "Đằng sau - Bên Dưới Tháp",
+                "url": "/assets/image/thap-so-dau/1_3.jpg",
+                "url_preview": "/assets/image/thap-so-dau/previews/1_3.jpg",
+                "hotSpots": [
+                    {
+                        "pitch": -2.243021658702034,
+                        "yaw": 136.34118453120715,
+                        "type": "scene",
+                        "sceneId": "ben_phai_thap"
+                    },
+                    {
+                        "pitch": -1.5129787340262693,
+                        "yaw": -140.13534338451075,
+                        "type": "scene",
+                        "sceneId": "ben_trai_thap"
+                    }
+                ]
+            },
+            {
+                "area_id": "ben_trai_thap",
+                "name": "Bên Trái - Bên Dưới Tháp",
+                "url": "/assets/image/thap-so-dau/1_4.jpg",
+                "url_preview": "/assets/image/thap-so-dau/previews/1_4.jpg",
+                "hotSpots": [
+                    {
+                        "pitch": -4.433147071012825,
+                        "yaw": 134.5180223077775,
+                        "type": "scene",
+                        "sceneId": "dang_sau_thap"
+                    },
+                    {
+                        "pitch": -4.327365334810111,
+                        "yaw": -136.7416702789285,
+                        "type": "scene",
+                        "sceneId": "chinh_dien_gan"
+                    }
+                ]
+            }
+        ],
+        "text_desc": "Tháp Sở Dầu, một di tích lịch sử nổi tiếng tại thành phố Hải Phòng, là một trong những biểu tượng văn hóa và lịch sử quan trọng của địa phương. Tháp được xây dựng trong khuôn viên Tổng kho Xăng dầu Thượng Lý, Số 1 Sở Dầu, phường Sở Dầu, quận Hồng Bàng, thành phố Hải Phòng. Lịch sử đã lùi về sau nhưng vẫn còn đây 1 chứng tích cho tinh thần kháng chiến hào hùng của Hải Phòng nói riêng và Việt Nam nói chung!\n\nVào đầu thế kỷ 20, cùng với sự ra đời của các bến cảng và các cơ sở công nghiệp chạy dọc theo hạ lưu sông Cấm, các hãng buôn lớn  u-Mỹ cũng xuất hiện ở Hải Phòng và đặt trụ sở, bến bãi kinh doanh tại vùng đất ven sông thuộc làng Thượng Lý, An Lạc, như hãng dầu con sò (shell), hãng con ngựa (Chocony), hãng Standar, hãng Cantex. Bởi vậy, trong dân gian, người dân gọi vùng đất này là Sở Dầu, một cơ sở công nghệ quan trọng của Hải Phòng thời thuộc địa, nơi tiếp nhận, dự trữ, cung cấp xăng dầu cho cả một thị trường rộng lớn phía Bắc Việt Nam và Đông Nam Trung Quốc.\n\nCông trình \"Tháp Sở Dầu\" do Pháp xây dựng từ đầu thế kỷ XX. Hiện nay, Tháp Sở Dầu là một khối hình trụ vuông, cao gần 11m, được liên kết bởi hệ thống 4 cột chính và các thanh xà ngang, giằng chéo bằng kỹ thuật đinh tán (ri vê). Nhìn tổng thể, di tích tháp Sở Dầu vẫn được bảo tồn nguyên vẹn cấu trúc kết cấu từ lúc khởi dựng. Toàn bộ công trình làm bằng vật liệu thép và được phủ sơn chống gỉ, giúp di tích luôn giữ được sự  bền vững, đảm bảo phục vụ tốt yêu cầu diễn tập của cán bộ công ty cũng như nhu cầu tham quan của nhân dân và du khách.\n\nĐây là đài quan sát chỉ huy góp phần cùng cán bộ, công nhân viên Công ty và quân dân thành phố đập tan 2 cuộc chiến tranh phá hoại của đế quốc Mỹ. \n\nTrong kháng chiến chống Pháp năm 1953, quân và dân Sở Dầu đã góp phần viết nên bản anh hùng ca \"Chiến thắng Sở Dầu\", tiếp thêm sức mạnh cho \"Cát Bi rực lửa\", góp phần làm nên một Điện Biên Phủ \"chấn động địa cầu\".\n\nTrong cuộc kháng chiến chống Mỹ cứu nước, Sở Dầu nói chung, Công ty Xăng dầu khu vực III nói riêng có vị trí đặc biệt quan trọng, là đầu mối duy nhất tiếp nhận xăng dầu cung ứng cho miền Bắc, chi viện cho tiền tuyến miền Nam và một phần cho nước bạn Lào. Nơi đây từng là mục tiêu số 1 bị máy bay Mỹ đánh phá ác liệt nhất, với gần 100 trận và hơn 4 nghìn quả bom các loại, hàng chục trận B52 huỷ diệt dội xuống các kho xăng dầu.\n\nVượt lên mưa bom bão đạn, với tinh thần và quyết tâm đánh thắng giặc Mỹ xâm lược, cán bộ công nhân viên và lực lượng tự vệ công ty kiên cường bám trụ, chiến đấu ngoan cường dũng cảm, duy trì sản xuất, đảm bảo liên tục mạch máu xăng dầu cho Tổ quốc. Trong cuộc chiến đấu sinh tử ấy, nhiều đồng chí đã anh dũng hy sinh khi đang làm nhiệm vụ như liệt sỹ Nguyễn Văn Mậu, liệt sỹ Mạc Văn Cầu.  \n\nVới những thành tích đặc biệt xuất sắc trong cuộc kháng chiến chống Mỹ cứu nước và trong sự nghiệp xây dựng đất nước, cán bộ công nhân viên và lực lượng tự vệ Công ty xăng dầu được Đảng, Nhà nước, chính phủ phong tặng danh hiệu đơn vị Anh hùng lực lượng vũ trang nhân dân, Huân chương Độc lập hạng Ba và nhiều phần thưởng cao quý khác.  \n\nVới những giá trị lịch sử và di sản hiện còn được lưu giữ, ngày 9/03/2023, Tháp Sở Dầu được tôn vinh, xếp hạng là di tích lịch sử cấp thành phố. Đây là một di tích có giá trị cần được lưu giữ, bảo tồn. Đồng thời cũng là nơi để giáo dục truyền thống cách mạng cho các thế hệ ngày hôm nay và mai sau."
+    },
+    {
+        "place_id": 6,
+        "name": "Trận Địa Pháo Phòng Không 37 Ly",
+        "position": {
+            "latitude": 20.86799258426918,
+            "longitude": 106.67112403218306
+        },
+        "mapRedirect": "20.867948, 106.671180",
+        "popupImgUrl": "/assets/image/tran-dia-phao-37-ly/thumb.jpg",
+        "audio": "/assets/audio/Trận địa pháo 37 ly.mp3",
+        "areas": [
+            {
+                "area_id": "chinh_dien_1",
+                "name": "Chính Diện 1",
+                "url": "/assets/image/tran-dia-phao-37-ly/0_1.jpg",
+                "url_preview": "/assets/image/tran-dia-phao-37-ly/previews/0_1.jpg",
+                "hotSpots": [
+                    {
+                        "pitch": -51.447760030105556,
+                        "yaw": 3.511155857037081,
+                        "type": "scene",
+                        "sceneId": "chinh_dien_2"
+                    }
+                ]
+            },
+            {
+                "area_id": "chinh_dien_2",
+                "name": "Chính Diện 2",
+                "url": "/assets/image/tran-dia-phao-37-ly/0_2.jpg",
+                "url_preview": "/assets/image/tran-dia-phao-37-ly/previews/0_2.jpg",
+                "hotSpots": [
+                    {
+                        "pitch": -59.29378184874159,
+                        "yaw": 2.337562731187927,
+                        "type": "scene",
+                        "sceneId": "chinh_dien_3"
+                    },
+                    {
+                        "pitch": 50.05359220604093,
+                        "yaw": 86.43611190516691,
+                        "type": "scene",
+                        "sceneId": "chinh_dien_1"
+                    }
+                ]
+            },
+            {
+                "area_id": "chinh_dien_3",
+                "name": "Chính Diện 3",
+                "url": "/assets/image/tran-dia-phao-37-ly/0_3.jpg",
+                "url_preview": "/assets/image/tran-dia-phao-37-ly/previews/0_3.jpg",
+                "hotSpots": [
+                    {
+                        "pitch": 2.1970340693502783,
+                        "yaw": -1.956336433595638,
+                        "type": "scene",
+                        "sceneId": "bat_dau"
+                    },
+                    {
+                        "pitch": 43.08732882494203,
+                        "yaw": 164.96112273915418,
+                        "type": "scene",
+                        "sceneId": "chinh_dien_2"
+                    }
+                ]
+            },
+            {
+                "area_id": "bat_dau",
+                "name": "Chính Diện - Bắt Đầu",
+                "url": "/assets/image/tran-dia-phao-37-ly/1.jpg",
+                "url_preview": "/assets/image/tran-dia-phao-37-ly/previews/1.jpg",
+                "hotSpots": [
+                    {
+                        "pitch": 17.852905141289952,
+                        "yaw": 153.1986945738789,
+                        "type": "info",
+                        "sceneId": "/assets/image/tran-dia-phao-37-ly/1_1.jpg"
+                    },
+                    {
+                        "pitch": 2.737834976187634,
+                        "yaw": -49.57815270628353,
+                        "type": "scene",
+                        "sceneId": "chinh_dien_3"
+                    },
+                    {
+                        "pitch": 1.6949767663016861,
+                        "yaw": -174.91503918589333,
+                        "type": "scene",
+                        "sceneId": "giua_san"
+                    }
+                ]
+            },
+            {
+                "area_id": "giua_san",
+                "name": "Giữa Sân",
+                "url": "/assets/image/tran-dia-phao-37-ly/1_2.jpg",
+                "url_preview": "/assets/image/tran-dia-phao-37-ly/previews/1_2.jpg",
+                "hotSpots": [
+                    {
+                        "pitch": -1.224845712014917,
+                        "yaw": -132.69515548114992,
+                        "type": "scene",
+                        "sceneId": "u_phao_1_mat_dat_1"
+                    },
+                    {
+                        "pitch": -2.4393810362945807,
+                        "yaw": 8.550202436506595,
+                        "type": "scene",
+                        "sceneId": "bat_dau"
+                    },
+                    {
+                        "pitch": -0.1535908274638054,
+                        "yaw": -106.50054515591746,
+                        "type": "scene",
+                        "sceneId": "u_phao_1_mat_dat_2"
+                    }
+                ]
+            },
+            {
+                "area_id": "u_phao_1_mat_dat_1",
+                "name": "Ụ pháo 1 - Mặt Đất 1",
+                "url": "/assets/image/tran-dia-phao-37-ly/2.jpg",
+                "url_preview": "/assets/image/tran-dia-phao-37-ly/previews/2.jpg",
+                "hotSpots": [
+                    {
+                        "pitch": -0.9555172334194802,
+                        "yaw": 179.25886199187562,
+                        "type": "info",
+                        "sceneId": "/assets/image/tran-dia-phao-37-ly/previews/2_1.jpg"
+                    },
+                    {
+                        "pitch": 1.3266278118423709,
+                        "yaw": -47.78730165872467,
+                        "type": "scene",
+                        "sceneId": "giua_san"
+                    },
+                    {
+                        "pitch": -1.2888465992082072,
+                        "yaw": -136.02259480754952,
+                        "type": "scene",
+                        "sceneId": "u_phao_1_mat_dat_2"
+                    },
+                    {
+                        "pitch": 38.903665499172824,
+                        "yaw": 176.2727962635492,
+                        "type": "scene",
+                        "sceneId": "u_phao_1_flycam"
+                    },
+                    {
+                        "pitch": -5.310563015677787,
+                        "yaw": 50.98554854371173,
+                        "type": "scene",
+                        "sceneId": "dai_chi_huy_mat_dat_1"
+                    }
+                ]
+            },
+            {
+                "area_id": "u_phao_1_mat_dat_2",
+                "name": "Ụ pháo 1 - Mặt Đất 2",
+                "url": "/assets/image/tran-dia-phao-37-ly/2_2.jpg",
+                "url_preview": "/assets/image/tran-dia-phao-37-ly/previews/2_2.jpg",
+                "hotSpots": [
+                    {
+                        "pitch": -5.827641099879098,
+                        "yaw": 145.67435753527698,
+                        "type": "scene",
+                        "sceneId": "u_phao_1_mat_dat_3"
+                    },
+                    {
+                        "pitch": -6.969190601019535,
+                        "yaw": 35.992127569424724,
+                        "type": "scene",
+                        "sceneId": "u_phao_1_mat_dat_1"
+                    },
+                    {
+                        "pitch": 42.152929265444726,
+                        "yaw": 130.75263800262934,
+                        "type": "scene",
+                        "sceneId": "u_phao_1_flycam"
+                    },
+                    {
+                        "pitch": -14.645118535894746,
+                        "yaw": -143.55764533646322,
+                        "type": "info",
+                        "sceneId": "/assets/image/tran-dia-phao-37-ly/2_2_1.jpg"
+                    }
+                ]
+            },
+            {
+                "area_id": "u_phao_1_mat_dat_3",
+                "name": "Ụ pháo 1 - Mặt Đất 3",
+                "url": "/assets/image/tran-dia-phao-37-ly/2_3.jpg",
+                "url_preview": "/assets/image/tran-dia-phao-37-ly/previews/2_3.jpg",
+                "hotSpots": [
+                    {
+                        "pitch": 56.497018171990625,
+                        "yaw": 8.433316915522838,
+                        "type": "scene",
+                        "sceneId": "u_phao_1_flycam"
+                    },
+                    {
+                        "pitch": -8.13993555411645,
+                        "yaw": -154.7508141175158,
+                        "type": "scene",
+                        "sceneId": "u_phao_1_mat_dat_2"
+                    }
+                ]
+            },
+            {
+                "area_id": "u_phao_1_flycam",
+                "name": "Ụ pháo 1 - Flycam",
+                "url": "/assets/image/tran-dia-phao-37-ly/2_4.jpg",
+                "url_preview": "/assets/image/tran-dia-phao-37-ly/previews/2_4.jpg",
+                "hotSpots": [
+                    {
+                        "pitch": -78.34807124674784,
+                        "yaw": -6.678341129233216,
+                        "type": "scene",
+                        "sceneId": "u_phao_1_mat_dat_3"
+                    },
+                    {
+                        "pitch": -48.25446933063948,
+                        "yaw": 51.38417438314953,
+                        "type": "scene",
+                        "sceneId": "u_phao_1_mat_dat_2"
+                    },
+                    {
+                        "pitch": -27.701030962841024,
+                        "yaw": 106.1149724318448,
+                        "type": "scene",
+                        "sceneId": "u_phao_1_mat_dat_1"
+                    }
+                ]
+            },
+            {
+                "area_id": "dai_chi_huy_mat_dat_1",
+                "name": "Đài chỉ huy - Mặt Đất 1",
+                "url": "/assets/image/tran-dia-phao-37-ly/3.jpg",
+                "url_preview": "/assets/image/tran-dia-phao-37-ly/previews/3.jpg",
+                "hotSpots": [
+                    {
+                        "pitch": -4.290100106226619,
+                        "yaw": 174.2511187392669,
+                        "type": "scene",
+                        "sceneId": "dai_chi_huy_mat_dat_2"
+                    },
+                    {
+                        "pitch": -0.15019549613551103,
+                        "yaw": -100.60261621015388,
+                        "type": "scene",
+                        "sceneId": "u_phao_1_mat_dat_1"
+                    },
+                    {
+                        "pitch": -4.074363820911998,
+                        "yaw": -38.46005769433117,
+                        "type": "scene",
+                        "sceneId": "giua_san"
+                    }
+                ]
+            },
+            {
+                "area_id": "dai_chi_huy_mat_dat_2",
+                "name": "Đài chỉ huy - Mặt Đất 2",
+                "url": "/assets/image/tran-dia-phao-37-ly/3_1.jpg",
+                "url_preview": "/assets/image/tran-dia-phao-37-ly/previews/3_1.jpg",
+                "hotSpots": [
+                    {
+                        "pitch": -11.369485942113158,
+                        "yaw": 164.13109619527728,
+                        "type": "scene",
+                        "sceneId": "giua_san"
+                    },
+                    {
+                        "pitch": 9.233975123433888,
+                        "yaw": -116.41485231717186,
+                        "type": "scene",
+                        "sceneId": "dai_chi_huy_flycam"
+                    },
+                    {
+                        "pitch": -27.583740212697656,
+                        "yaw": -163.17228425059676,
+                        "type": "scene",
+                        "sceneId": "dai_chi_huy_mat_dat_1"
+                    },
+                    {
+                        "pitch": -5.878663583833759,
+                        "yaw": -77.88624113271493,
+                        "type": "scene",
+                        "sceneId": "u_phao_2_mat_dat_1"
+                    }
+                ]
+            },
+            {
+                "area_id": "dai_chi_huy_flycam",
+                "name": "Đài chỉ huy - Flycam",
+                "url": "/assets/image/tran-dia-phao-37-ly/3_2.jpg",
+                "url_preview": "/assets/image/tran-dia-phao-37-ly/previews/3_2.jpg",
+                "hotSpots": [
+                    {
+                        "pitch": -14.097204937389845,
+                        "yaw": 1.4413163823772512,
+                        "type": "scene",
+                        "sceneId": "dai_chi_huy_mat_dat_2"
+                    },
+                    {
+                        "pitch": -22.063942166145065,
+                        "yaw": 16.324518192669647,
+                        "type": "scene",
+                        "sceneId": "dai_chi_huy_mat_dat_1"
+                    }
+                ]
+            },
+            {
+                "area_id": "u_phao_2_mat_dat_1",
+                "name": "Ụ pháo 2 Mặt Đất - 1",
+                "url": "/assets/image/tran-dia-phao-37-ly/4.jpg",
+                "url_preview": "/assets/image/tran-dia-phao-37-ly/previews/4.jpg",
+                "hotSpots": [
+                    {
+                        "pitch": -1.4192679051016768,
+                        "yaw": -154.79616380039872,
+                        "type": "scene",
+                        "sceneId": "u_phao_2_mat_dat_2"
+                    },
+                    {
+                        "pitch": 22.62890129151645,
+                        "yaw": -133.29253830729797,
+                        "type": "scene",
+                        "sceneId": "u_phao_2_flycam"
+                    },
+                    {
+                        "pitch": -2.193890479146329,
+                        "yaw": -5.786943748760277,
+                        "type": "scene",
+                        "sceneId": "u_phao_3_mat_dat_1"
+                    }
+                ]
+            },
+            {
+                "area_id": "u_phao_2_mat_dat_2",
+                "name": "Ụ pháo 2 Mặt Đất - 2",
+                "url": "/assets/image/tran-dia-phao-37-ly/4_1.jpg",
+                "url_preview": "/assets/image/tran-dia-phao-37-ly/previews/4_1.jpg",
+                "hotSpots": [
+                    {
+                        "pitch": 30.5560725488846,
+                        "yaw": 28.831946308285488,
+                        "type": "scene",
+                        "sceneId": "u_phao_2_flycam"
+                    },
+                    {
+                        "pitch": -4.6564058996693705,
+                        "yaw": 144.79805317509044,
+                        "type": "scene",
+                        "sceneId": "u_phao_2_mat_dat_1"
+                    }
+                ]
+            },
+            {
+                "area_id": "u_phao_2_flycam",
+                "name": "Ụ pháo 2 - Flycam",
+                "url": "/assets/image/tran-dia-phao-37-ly/4_2.jpg",
+                "url_preview": "/assets/image/tran-dia-phao-37-ly/previews/4_2.jpg",
+                "hotSpots": [
+                    {
+                        "pitch": -30.10052193796429,
+                        "yaw": 28.871101255111533,
+                        "type": "scene",
+                        "sceneId": "u_phao_2_mat_dat_2"
+                    },
+                    {
+                        "pitch": -26.08921651485087,
+                        "yaw": -42.403095087948586,
+                        "type": "scene",
+                        "sceneId": "u_phao_2_mat_dat_1"
+                    },
+                    {
+                        "pitch": -6.4165077641414,
+                        "yaw": -41.774413589114914,
+                        "type": "scene",
+                        "sceneId": "dai_chi_huy_mat_dat_2"
+                    },
+                    {
+                        "pitch": -7.313613645896904,
+                        "yaw": -20.800469395092975,
+                        "type": "scene",
+                        "sceneId": "u_phao_1_mat_dat_1"
+                    }
+                ]
+            },
+            {
+                "area_id": "u_phao_3_mat_dat_1",
+                "name": "Ụ pháo 3 Mặt Đất - 1",
+                "url": "/assets/image/tran-dia-phao-37-ly/5.jpg",
+                "url_preview": "/assets/image/tran-dia-phao-37-ly/previews/5.jpg",
+                "hotSpots": [
+                    {
+                        "pitch": -1.0456335041296638,
+                        "yaw": -19.231004369074864,
+                        "type": "scene",
+                        "sceneId": "u_phao_2_mat_dat_1"
+                    },
+                    {
+                        "pitch": -3.744895053592779,
+                        "yaw": -176.76984875638894,
+                        "type": "scene",
+                        "sceneId": "u_phao_3_mat_dat_2"
+                    },
+                    {
+                        "pitch": 27.467119146412188,
+                        "yaw": 70.96607898902134,
+                        "type": "scene",
+                        "sceneId": "u_phao_3_flycam"
+                    }
+                ]
+            },
+            {
+                "area_id": "u_phao_3_mat_dat_2",
+                "name": "Ụ pháo 3 Mặt Đất - 2",
+                "url": "/assets/image/tran-dia-phao-37-ly/5_1.jpg",
+                "url_preview": "/assets/image/tran-dia-phao-37-ly/previews/5_1.jpg",
+                "hotSpots": [
+                    {
+                        "pitch": -14.755365337081477,
+                        "yaw": -169.4870402403481,
+                        "type": "scene",
+                        "sceneId": "u_phao_3_mat_dat_1"
+                    },
+                    {
+                        "pitch": 28.40058831240659,
+                        "yaw": -138.87631306144831,
+                        "type": "scene",
+                        "sceneId": "u_phao_3_flycam"
+                    }
+                ]
+            },
+            {
+                "area_id": "u_phao_3_flycam",
+                "name": "Ụ pháo 3 - Flycam",
+                "url": "/assets/image/tran-dia-phao-37-ly/5_2.jpg",
+                "url_preview": "/assets/image/tran-dia-phao-37-ly/previews/5_2.jpg",
+                "hotSpots": [
+                    {
+                        "pitch": -41.103178159220924,
+                        "yaw": 19.202136288656096,
+                        "type": "scene",
+                        "sceneId": "u_phao_3_mat_dat_1"
+                    },
+                    {
+                        "pitch": -26.352613614688373,
+                        "yaw": -0.23050300450045924,
+                        "type": "scene",
+                        "sceneId": "u_phao_3_mat_dat_2"
+                    }
+                ]
+            }
+        ],
+        "text_desc": "Di tích lịch sử \"Trận địa pháo phòng không 37 ly\" tọa lạc trong khuôn viên Công ty TNHH MTV Đóng tàu Bạch Đằng ở phường Hạ Lý, quận Hồng Bàng, thành phố Hải Phòng. Đây là một trong những di tích quan trọng chứng kiến những trang sử oanh liệt của dân tộc Việt Nam trong cuộc kháng chiến chống Mỹ cứu nước. Di tích này không chỉ là minh chứng cho tinh thần chiến đấu kiên cường, sáng tạo mà còn là nơi lưu giữ những câu chuyện hào hùng về lịch sử quân sự của Việt Nam.\n\nTrong thời kỳ chiến tranh Việt Nam, thành phố Hải Phòng, với vị trí là một trung tâm công nghiệp và giao thông quan trọng của miền Bắc, thường xuyên trở thành mục tiêu của các cuộc không kích dữ dội bởi quân đội Mỹ. Để đối phó với nguy cơ từ trên không, \"Trận địa pháo phòng không 37 ly\" được thành lập và đặt tại Công ty Đóng tàu Bạch Đằng - một địa điểm chiến lược có nhiệm vụ bảo vệ nhà máy và các cơ sở hạ tầng xung quanh. Các khẩu pháo 37 ly được sử dụng tại đây đã góp phần quan trọng trong việc ngăn chặn các đợt không kích, bảo vệ an toàn cho người dân và cơ sở vật chất.\n\nTrận địa pháo có tổng diện tích hơn 1.176 m2, kết cấu trận địa được xây dựng bao gồm: 3 Ụ pháo có diện tích 58m2, 1 đài chỉ huy có diện tích 6m2 và 1 nhà để pháo chứa 3 khẩu pháo; được bố trí xây dựng nằm ở khu vực Cầu tàu Công ty, ngay ngã ba sông Hạ Lý và sông Cấm.\n\nĐây là một trong số hàng chục trận địa pháo được xây dựng từ những năm đầu Mỹ leo thang đánh phá Miền Bắc, hiện nay còn giữ lại. Từ năm 1967 đến cuối năm 1972 dưới sự chỉ huy trực tiếp của Bộ Tư lệnh Quân khu 3, Bộ Tư lệnh 350 lực lượng tự vệ phòng không Nhà máy đã bám trụ trận địa chiến đấu 227 trận, bắn rơi 7 máy bay phản lực hiện đại và phối hợp bắn rơi nhiều chiếc khác. Trận địa pháo được tôn tạo, sửa chữa lại từ sau những năm 1972 duy trì trên tổng diện tích 1.176 m2 và được bảo quản đến ngày nay.\n\n\"Trận địa pháo phòng không 37 ly\" không chỉ là một dấu ấn không thể thiếu trong hành trình khám phá lịch sử quân sự của đất nước. Nơi đây không chỉ là di tích mà còn là điểm tựa tinh thần, là nguồn cảm hứng và là địa chỉ đỏ giáo dục lịch sử khơi dậy tình yêu nước cho các thế hệ sau."
+    }
+]

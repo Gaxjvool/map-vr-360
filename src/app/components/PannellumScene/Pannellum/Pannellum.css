@@ -1,0 +1,25 @@
+.pnlm-about-msg {
+    visibility: hidden;
+}
+
+.pnlm-about-msg a {
+    visibility: hidden;
+}
+
+.custom-scene-hotspot {
+    width: 50px;
+    aspect-ratio: 0.75;
+    background-image: url(/assets/icons/hotspot-pointer.svg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.custom-img-hotspot {
+    width: 50px;
+    aspect-ratio: 1;
+    background-image: url(/assets/icons/img_icon.svg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
